@@ -355,7 +355,10 @@ th, td {
   vertical-align: top !important; }
 
 .booktabs th.cmid, th {
-  border-bottom: 1px solid white; }
+  border-bottom: 1px solid #d4cbb4; }
+
+tr.cmid td {
+  border-top: 1px solid #d4cbb4; }
 
 .booktabs th.nocmid {
   border-bottom: none; }
