@@ -638,7 +638,7 @@ label.margin-toggle:not(.sidenote-number) {
   img {
     max-width: 100%; }
 
-  article ul {
+  article ul, article ol {
     width: 87.5%; } }
 /*--- End of Basic Layout stuff from tufte.css ---*/
 /* -- Jekyll specific styling --*/
