@@ -30,6 +30,10 @@ It also may help to understand the parallels between the two.
 
 <a target="_blank" href="./files/guide-to-reading-research.pdf">Guide to reading research - USC Evidence Based Decision Making</a>
 
+## Thinking better
+
+[Cognitive bias cheat sheet: Because thinking is hard - Buster Benson](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18#.2v7ex66ow)
+
 ## Literature review
 
 The purpose of literature review is to understand the state-of-the-art and history of a given topic. 
