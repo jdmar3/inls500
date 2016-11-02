@@ -1,5 +1,13 @@
 ---
 ---
 
+{% if entry.doi %}
+<a href="http://dx.doi.org{% if site.libproxy %}.{{site.libproxy}}{% endif%}/{{entry.doi}}" target="_blank">{{reference}}</a>
+{% elsif entry.url %}
+<a href="{{entry.url}}" target="_blank">{{reference}}</a>
+{% else %}
 {{reference}}
-<br/><br/>{{ entry.annote }}<br/>
+{% endif %}
+{% if entry.annote %}
+<br/><br/>{{ entry.annote }}
+{% endif %}
