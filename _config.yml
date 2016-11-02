@@ -59,7 +59,7 @@ excerpt_separator: <excerpt/>  # you can specify your own separator, of course.
 libproxy: libproxy.lib.unc.edu
 # Jekyll scholar settings
 scholar:
-  style: apa.csl
+  style: _bibliography/apa.csl
   locale: en
 
   sort_by: year
@@ -80,10 +80,11 @@ scholar:
   use_raw_bibtex_entry: false
   bibtex_filters:
   - latex
+  - markdown
 
-  details_dir:    bibliography
-  details_layout: bibtex.html
-  details_link:   Details
+#  details_dir:    _bibliography
+#  details_layout: bibtex.html
+#  details_link:   Details
 
   query: "@*"
 
