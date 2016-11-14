@@ -1,10 +1,11 @@
 --- 
 layout: post 
-session: '23' 
+session: '22' 
 date: '2016-11-14' 
 category: 'Intermediation and dis-intermediation in information seeking' 
-title: 'Social intermediation: Recommender systems, social Q&A, collaborative search' 
-tags: [apomediation, systems, social aspects, community] 
+title: 'Information retrieval systems as intermediaries' 
+tags: [disintermediation, systems, interactive information retrieval
+] 
 --- 
 
 <excerpt/>
