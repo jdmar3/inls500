@@ -66,6 +66,13 @@ This set of guides and tutorials by Dr. Raul Pacheco-Vega may be helpful.
 
 <a target="_blank" href="http://www.raulpacheco.org/resources/literature-reviews/">Literature Review - Raul Pacheco-Vega, PhD</a>
 
+The Purdue Online Writing Lab (OWL) has a GREAT guide to writing memos.
+In the final days before you turn in your system/service proposal, you will want to look it over and perhaps follow the advice there for formulating your memo.In
+
+<a target="_blank" href="https://owl.english.purdue.edu/owl/resource/590/1/">Memos - Purdue Online Writing Lab</a>
+
+Be sure to also look over the [Sample Memo](https://owl.english.purdue.edu/owl/resource/590/04/), for cues about what yours should ideally look like. 
+
 # Reference management
 
 It is recommended that you become comfortable with using a reference manager in order to organize your readings and literature review. 
