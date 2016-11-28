@@ -7,6 +7,6 @@ title: 'Scholarly work and the role of scholarly communication'
 tags: [scholarly communication, invisible college, diffusion] 
 --- 
 
-Skim both of these articles. We will have a discussion about what the role of scholarly communication is in the academy and society.
+Skim or read both of these articles AFTER class today. We will have an open discussion about what the role of scholarly communication is in the academy and society. We will draw on our experience from this semester assembling a body of literature to support further research or action. 
 
 <excerpt/>
