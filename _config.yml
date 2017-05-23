@@ -11,7 +11,7 @@ description: "The behavioral and cognitive activities of those who interact with
 
 ## Uncomment this section if setting up an archive site ################
 url: "https://ils.unc.edu"
-baseurl: "/courses/2016_fall/inls161_001"
+baseurl: "/courses/2016_fall/inls1_001"
 enforce-ssl: "ils.unc.edu"
 # When mothballed assignments link to statics and there is a GH link
 mothballed: true  
