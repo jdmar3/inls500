@@ -2,9 +2,20 @@
 title: Human Information Interactions
 subtitle: "INLS 500-001 (Fall)"
 description: "The behavioral and cognitive activities of those who interact with information, with emphasis on the role of information mediators. How information needs are recognized and resolved; use and dissemination of information."
-baseurl: ""
-url: "https://inls500.johndmart.in"
-enforce-ssl: "inls500.johndmart.in"
+
+## Comment this section if setting up an archive site ##################
+#baseurl: ""
+#url: "https://inls500.johndmart.in"
+#enforce-ssl: "inls500.johndmart.in"
+########################################################################
+
+## Uncomment this section if setting up an archive site ################
+url: "https://ils.unc.edu"
+baseurl: "/courses/2016_fall/inls161_001"
+enforce-ssl: "ils.unc.edu"
+# When mothballed assignments link to statics and there is a GH link
+mothballed: true  
+########################################################################
 
 mainicon: "/assets/img/500icon.png"
 
