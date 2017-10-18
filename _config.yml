@@ -16,7 +16,7 @@ url: https://inls500.johndmart.in
 enforce-ssl: https://inls500.johndmart.in
 #enforce-ssl: "ils.unc.edu"
 # When mothballed assignments link to statics and there is a GH link
-mothballed: true  
+#mothballed: true  
 ########################################################################
 
 mainicon: "/assets/img/500icon.png"
