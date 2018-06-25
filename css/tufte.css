@@ -178,7 +178,8 @@
   padding: 0; }
 
 /* clearfix hack after Cederholm (group class name) */
-.group:after {
+.group:after,
+.bottom-group:after {
   content: "";
   display: table;
   clear: both; }
@@ -213,26 +214,39 @@ html {
 .mathblock {
   font-size: 1rem; }
 
+a {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  -ms-word-break: break-all;
+  /* This is the dangerous one in WebKit, as it breaks things wherever */
+  word-break: break-all;
+  /* Instead use this non-standard one: */
+  word-break: break-word;
+  /* Adds a hyphen where the word breaks, if supported (No Blink) */
+  -ms-hyphens: auto;
+  -moz-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto; }
+
 a, a:visited {
-  color: #7bc2ab;
+  color: #166DAB;
   text-decoration: none; }
 
 a:hover {
-  color: #e8743a;
+  color: #56A0D3;
   text-decoration: none; }
 
 p > a {
-  color: #7bc2ab;
+  color: #166DAB;
   text-decoration: none; }
 
 body {
   width: 87.5%;
-  margin-left: auto;
+  margin-left: 6.25%;
   margin-right: auto;
-  padding: 0% 5%;
   font-family: et-bembo, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
-  background-color: #5d4232;
-  color: #e0daca;
+  background-color: #ffffff;
+  color: #000000;
   max-width: 1400px;
   counter-reset: sidenote-counter; }
 
@@ -337,14 +351,14 @@ h1 code, h2 code, h3 code {
 
 /*-- Table styling section - For Tufte-Jekyll, booktabs style is default for Markdown tables  --*/
 table, table.booktabs {
-  width: auto;
+  width: 85%;
   margin: 0 auto 0 0;
   border-spacing: 0px;
-  border-top: 2px solid #d4cbb4;
-  border-bottom: 2px solid #d4cbb4; }
+  border-top: 2px solid #333;
+  border-bottom: 2px solid #333; }
 
 .booktabs th, th {
-  border-bottom: 1px solid #d4cbb4;
+  border-bottom: 1px solid #333;
   padding: 0.65ex 0.5em 0.4ex 0em;
   font-weight: normal;
   text-align: center; }
@@ -355,10 +369,10 @@ th, td {
   vertical-align: top !important; }
 
 .booktabs th.cmid, th {
-  border-bottom: 1px solid #d4cbb4; }
+  border-bottom: 1px solid #333; }
 
 tr.cmid td {
-  border-top: 1px solid #d4cbb4; }
+  border-top: 1px solid #333; }
 
 .booktabs th.nocmid {
   border-bottom: none; }
@@ -411,40 +425,39 @@ section {
   padding-top: 1rem;
   padding-bottom: 1rem; }
 
-article ul {
+ul {
   width: 55%;
-  -webkit-padding-start: 2.5%;
-  -webkit-padding-end: 2.5%;
+  list-style: disc outside none;
+  margin-left: 0em;
+  padding-left: 1em; }
+
+ul, .bibliography ul, ul.nobullet {
+  width: 55%;
+  list-style: disc outside none;
+  margin-left: 0em;
+  padding-left: 0em;
   list-style-type: none; }
 
+ul li, .bibliography ul li {
+  margin-left: 0;
+  padding-left: 0;
+  text-indent: -1.5em;
+  margin-left: 1.5em;
+  margin-right: 0; }
+
+ul li.listing {
+  text-indent: 0em; }
+
 ul li ul {
-  width: 100%;
-  -webkit-padding-start: 2.5%;
-  -webkit-padding-end: 2.5%;
-  list-style-type: none;
-  text-indent: -2.5%; }
-
-body.cv ul {
-  text-indent: -2.5%; }
-
-body.cv ul li {
-  text-indent: -2.5%; }
-
-ul.bibliography {
-  text-indent: -2.5%; }
-
-ul.bibliography li {
-  text-indent: -2.5%; }
+  width: 100% !important; }
 
 ol {
   width: 55%;
-  -webkit-padding-start: 4%;
-  -webkit-padding-end: 4%; }
+  margin-left: 0em;
+  padding-left: 1em; }
 
 ol li ol {
   width: 100% !important;
-  -webkit-padding-start: 4%;
-  -webkit-padding-end: 4%;
   list-style-type: lower-alpha; }
 
 ol p, ul p {
@@ -492,10 +505,10 @@ img {
   position: relative; }
 
 li .sidenote, li .marginnote {
-  margin-right: -80%; }
+  margin-right: -64%; }
 
 blockquote .sidenote, blockquote .marginnote {
-  margin-right: -79%; }
+  margin-right: -60%; }
 
 .sidenote-number {
   counter-increment: sidenote-counter; }
@@ -503,7 +516,7 @@ blockquote .sidenote, blockquote .marginnote {
 .sidenote-number:after, .sidenote:before {
   content: counter(sidenote-counter) " ";
   font-family: et-bembo-roman-old-style;
-  color: #7bc2ab;
+  color: #166DAB;
   position: relative;
   vertical-align: baseline; }
 
@@ -515,7 +528,7 @@ blockquote .sidenote, blockquote .marginnote {
 
 .sidenote:before {
   content: counter(sidenote-counter) ". ";
-  color: #7bc2ab;
+  color: #166DAB;
   top: 0rem; }
 
 p, footer, div.table-wrapper, div.mathblock {
@@ -528,6 +541,35 @@ div.table-wrapper {
   overflow-x: auto; }
 
 @media screen and (max-width: 760px) {
+  h1.websitetitle {
+    text-align: center;
+    line-height: 2.2rem; }
+
+  header > nav h1 a {
+    padding-right: 0;
+    float: inherit; }
+
+  header > nav.logo-wrap {
+    text-align: center; }
+
+  header > nav.bottom-group {
+    text-align: center; }
+
+  header > nav.bottom-group a {
+    float: inherit;
+    padding-right: 1rem;
+    padding-left: 1rem; }
+
+  header > nav a.logo {
+    float: inherit;
+    padding-right: 0;
+    padding-top: 0;
+    display: block;
+    margin: auto; }
+
+  header > nav a img {
+    top: 0 !important; }
+
   p, footer, div.mathblock {
     width: 90%; }
 
@@ -551,6 +593,9 @@ div.table-wrapper {
     width: 80%;
     padding-left: 5%;
     padding-right: 5%; } }
+@media screen and (max-width: 1400px) {
+  li .sidenote, li .marginnote {
+    margin-right: -64%; } }
 .marginnote code, .sidenote code {
   font-size: 1rem; }
 
@@ -558,13 +603,13 @@ div.highlight {
   width: 55%; }
 
 code {
-  color: #bbb; }
+  color: #333; }
 
 pre, pre code, p pre code {
   padding-left: 1.25%;
   overflow-x: auto;
-  color: #bbb;
-  background: #222; }
+  color: #eee;
+  background: #333; }
 
 .fullwidth {
   max-width: 90%; }
@@ -592,7 +637,7 @@ label.margin-toggle:not(.sidenote-number) {
 @media (max-width: 760px) {
   label.margin-toggle:not(.sidenote-number) {
     display: inline;
-    color: #7bc2ab; }
+    color: #166DAB; }
 
   .sidenote, .marginnote {
     display: none; }
@@ -643,10 +688,10 @@ label.margin-toggle:not(.sidenote-number) {
 /*--- End of Basic Layout stuff from tufte.css ---*/
 /* -- Jekyll specific styling --*/
 .contrast a, .contrast a:visited {
-  color: #7bc2ab; }
+  color: #166DAB; }
 
 .contrast a:hover {
-  color: #e8743a; }
+  color: #56A0D3; }
 
 .tiny {
   font-size: 50%; }
@@ -679,17 +724,22 @@ header > nav.group, body footer {
   width: 100%;
   padding-top: 2rem; }
 
+header > nav.bottom-group {
+  width: 100%;
+  /*padding-top: 2rem;*/ }
+
 /* nav.group a.active:before{ content:"\0003c\000a0";} // escaped unicode for the carats and then a space on active menu links
 nav.group a.active:after{ content:"\000a0\0003e" ;} */
 nav.group a.active {
-  color: #e8743a; }
+  color: #56A0D3; }
 
 header > nav a {
-  font-size: 1.2rem;
+  font-size: 1.3rem;
   font-family: "Gill Sans", "Gill Sans MT", "Lato", Calibri, sans-serif;
+  font-weight: 500;
   letter-spacing: 0.15em;
   text-transform: uppercase;
-  color: #7bc2ab;
+  color: #166DAB;
   padding-top: 1.5rem;
   text-decoration: none;
   display: inline-block;
@@ -705,10 +755,30 @@ header > nav a img {
   max-width: 100%;
   top: -1.5rem; }
 
-ul.footer-links, .credits {
+.badge {
+  overflow: hidden;
+  border-radius: 50%; }
+
+/*img.badge {
+    display: inline;
+    margin: 0 auto;
+//    height: 100%;
+//    width: auto;
+}*/
+header > .bottom-group a {
+  padding-top: 0rem;
+  padding-bottom: 1rem; }
+
+header > nav.group h1 a {
+  font-size: 2rem;
+  padding-top: 0.3rem; }
+
+ul.footer-links {
   list-style: none;
-  text-align: center;
-  margin: auto;
+  text-align: left;
+  margin: auto 0;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
   width: 90% !important; }
 
 ul.footer-links {
@@ -722,7 +792,9 @@ ul.footer-links li {
   text-indent: 0% !important; }
 
 .credits {
-  padding: 1rem 0rem; }
+  padding: 1rem 0rem;
+  margin: auto 0;
+  text-align: left; }
 
 .blognav {
   font-family: "Gill Sans", "Gill Sans MT", "Lato", Calibri, sans-serif;
@@ -756,7 +828,7 @@ ul.footer-links li {
 .credits {
   font-family: "Gill Sans", "Gill Sans MT", "Lato", Calibri, sans-serif; }
   .credits a {
-    color: #7bc2ab; }
+    color: #166DAB; }
 
 body.full-width {
   width: 87.5%;
@@ -820,13 +892,13 @@ li.listing h3.new {
 
 hr.slender {
   border: 0;
-  height: 2px;
+  height: 1px;
   margin-top: 1.4rem;
   margin-bottom: 1.4rem;
-  background-image: -webkit-linear-gradient(left, rgba(100, 100, 100, 0), rgba(100, 100, 100, 0.9), rgba(100, 100, 100, 0));
-  background-image: -moz-linear-gradient(left, rgba(100, 100, 100, 0), rgba(100, 100, 100, 0.9), rgba(100, 100, 100, 0));
-  background-image: -ms-linear-gradient(left, rgba(100, 100, 100, 0), rgba(100, 100, 100, 0.9), rgba(100, 100, 100, 0));
-  background-image: -o-linear-gradient(left, rgba(100, 100, 100, 0), rgba(100, 100, 100, 0.9), rgba(100, 100, 100, 0)); }
+  background-image: -webkit-linear-gradient(left, rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.5), transparent);
+  background-image: -moz-linear-gradient(left, rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.5), transparent);
+  background-image: -ms-linear-gradient(left, rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.5), transparent);
+  background-image: -o-linear-gradient(left, rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.5), transparent); }
 
 @media screen {
   .print-footer {
@@ -851,9 +923,7 @@ hr.slender {
     font-family: "Gill Sans", "Gill Sans MT", "Lato", Calibri, sans-serif;
     font-size: 9pt;
     margin-top: 50pt;
-    padding-top: 4pt;
-    border-top: 1px solid #000;
-    display: none; }
+    padding-top: 4pt; }
 
   thead {
     display: table-header-group; }
@@ -916,9 +986,9 @@ hr.slender {
 
 .tag {
   font-weight: 500;
-  background: #7bc2ab;
+  background: #166DAB;
   border-radius: 0.2rem 0.2rem 0.2rem 0.2rem;
-  color: #5d4232;
+  color: #ffffff;
   display: inline-block;
   height: 1.6rem;
   line-height: 1.6rem;
@@ -928,7 +998,7 @@ hr.slender {
   -webkit-transition: color 0.2s; }
 
 .tag::before {
-  background: #5d4232;
+  background: #ffffff;
   content: '';
   position: absolute; }
 
@@ -950,11 +1020,11 @@ hr.slender {
   top:0 
 } */
 .tag:hover {
-  background-color: #e8743a;
-  color: #5d4232; }
+  background-color: #56A0D3;
+  color: #ffffff; }
 
 .tag:visited {
-  color: #5d4232; }
+  color: #ffffff; }
 
 /* --- Icomoon icon fonts CSS --*/
 @font-face {
@@ -1083,6 +1153,15 @@ hr.slender {
 .icon-bubbles4:before {
   content: ""; }
 
+.icon-coffee:before {
+  content: ""; }
+
+.icon-dollar:before {
+  content: ""; }
+
+.icon-creditcard:before {
+  content: ""; }
+
 /*-- End of Icomoon icon font section --*/
 /*-- 525Icons icon font section --*/
 @font-face {
@@ -1186,3 +1265,36 @@ hr.slender {
 
 .ico-target:before {
   content: "\e6f6"; }
+
+.ico-blogger:before {
+  content: ""; }
+
+.ico-coffee:before {
+  content: ""; }
+
+.ico-domain2:before {
+  content: ""; }
+
+.ico-science:before {
+  content: ""; }
+
+@font-face {
+  font-family: 'iconfont';
+  src: url("../fonts/iconfont.eot?rgwlb8");
+  src: url("../fonts/iconfont.eot?#iefixrgwlb8") format("embedded-opentype"), url("../fonts/iconfont.woff") format("woff"), url("../fonts/iconfont.ttf") format("truetype"), url("../fonts/iconfont.woff?rgwlb8") format("woff"), url("../fonts/iconfont.ttf?rgwlb8") format("truetype"), url("../fonts/iconfont.svg?rgwlb8#icomoon") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+[class^="icnf-"], [class*=" icnf-"] {
+  font-family: 'iconfont' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+.icnf-tor:before {
+  content: "\e900"; }

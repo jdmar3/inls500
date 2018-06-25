@@ -1,0 +1,202 @@
+{
+     "title": {
+        "text": {
+          "headline": "Human Information Interactions",
+          "text": "The behavioral and cognitive activities of those who interact with information, with emphasis on the role of information mediators. How information needs are recognized and resolved; use and dissemination of information."
+        }
+    },  
+    "events": [
+        {
+            "start_date": {
+                "year": "2018",
+                "month": "06",
+                "day": "25",
+                "hour": "11",
+                "minute": "30"
+            },
+            "end_date": {
+                "year": "2018",
+                "month": "06",
+                "day": "25",
+                "hour": "13",
+                "minute": "00"
+            },
+            "text": {
+                "headline": "<a href='/class/2018/06/25/intro/'>Introduction to INLS 500</a>",
+                "text": "<p>Today, we will go over the syllabus and get acquainted. We will talk about your goals and objectives for the class, and have a discussion about the field that will lead us into tomorrow&#39;s discussion. We will also be taking the final exam (I know that the first day seems like a weird time to do that, but trust me) today.</p>"
+            },
+            "unique_id": "class-2018-06-25-intro",
+            "group": "class"
+        },
+        {
+            "start_date": {
+                "year": "2018",
+                "month": "06",
+                "day": "26",
+                "hour": "11",
+                "minute": "30"
+            },
+            "end_date": {
+                "year": "2018",
+                "month": "06",
+                "day": "26",
+                "hour": "13",
+                "minute": "00"
+            },
+            "text": {
+                "headline": "<a href='/class/2018/06/26/info-science-field/'>Information Science as a Field</a>",
+                "text": "<p>Read:</p>\n\n<ul>\n<li>Bates,    M.J.    (1999). The invisible   substrate   of  information science.    <em>Journal    of  the American    Society for Information Science,    50</em>(12),    1043-1050. <a href=\"http://dx.doi.org/10.1002/(SICI)1097-4571(1999)50:12%3C1043::AID-ASI1%3E3.0.CO;2-X/pdf\">http://dx.doi.org/10.1002/(SICI)1097-4571(1999)50:12%3C1043::AID-ASI1%3E3.0.CO;2-X/pdf</a>\n\n<ul>\n<li>In  this    article,    Bates   discusses   the &quot;below-the-water-line&quot;  portion of  information science.    While   she focuses more    of  her attention   on  the content/information of  concern,    she does    include human-information   interactions    among   her &quot;Three  Big Questions&quot;  in  information science.    Read    through this    article quickly,    to  get an  overview    of  the field   as  background  for the semester.</li>\n</ul></li>\n<li>Marchionini,  G.  (2008). Human-information   interaction research    and development.    <em>Library    &amp;   Information Science Research,   30</em>(3), 165-174. <a href=\"http://dx.doi.org/10.1016/j.lisr.2008.07.001\">http://dx.doi.org/10.1016/j.lisr.2008.07.001</a>\n\n<ul>\n<li>Marchionini focuses more    directly    on  the scope   of  this    course than Bates   does    in  her article.    Focus special   attention   on  sections    2   and 6.<br /></li>\n</ul></li>\n<li>Wildemuth,    B.M.,   &amp;   Case,   D.O.    (2010). Early   information behavior    research.   <em>Bulletin   of  the American    Society for Information Science &amp;   Technology, 36</em>(3), 35-38.  <a href=\"http://www.asis.org/Bulletin/Feb-10/FebMar10_Wildemuth_Case.pdf\">http://www.asis.org/Bulletin/Feb-10/FebMar10_Wildemuth_Case.pdf</a>\n\n<ul>\n<li>This    article was written as  part    of  the 10th    anniversary celebration of  the Special  Interest   Group   on  Information Needs,  Seeking,    and Use of  the American    Society for Information Science &amp;   Technology (SIG-USE of  ASIS&amp;T).    It  provides a  brief   historical  overview    of  the general directions  taken   in  information behavior research.</li>\n</ul></li>\n</ul>"
+            },
+            "unique_id": "class-2018-06-26-info-science-field",
+            "group": "class"
+        },
+        {
+            "start_date": {
+                "year": "2018",
+                "month": "06",
+                "day": "27",
+                "hour": "11",
+                "minute": "30"
+            },
+            "end_date": {
+                "year": "2018",
+                "month": "06",
+                "day": "27",
+                "hour": "13",
+                "minute": "00"
+            },
+            "text": {
+                "headline": "<a href='/class/2018/06/27/evidence/'>Evidence</a>",
+                "text": "<p>Read:</p>\n\n<ul>\n<li>Thomson, P. (2018, May 14). Quick lit: Rapid evidence reviewing. Retrieved June 25, 2018, from <a href=\"https://patthomson.net/2018/05/14/quick-lit-rapid-evidence-reviewing/\">https://patthomson.net/2018/05/14/quick-lit-rapid-evidence-reviewing/</a></li>\n<li> Edwards, P. N. (2000). How to read a book. Ann Arbor, 1001, 48109–1107.\n\n<ul>\n<li> This describes how to read academic books, but the methods outlined in this manuscript are equally helpful for reading scientific articles – which we will do throughout our course. This skill will be useful throughout your time at SC&amp;I and your future career as an information professional as well. </li>\n</ul></li>\n<li> Koufogiannakis, D. (2013). EBLIP7 Keynote: What we talk about when we talk about evidence. <em>Evidence Based Library and Information Practice, 8</em>(4), 6-17. <a href=\"http://ejournals.library.ualberta.ca/index.php/EBLIP/article/view/20486\">http://ejournals.library.ualberta.ca/index.php/EBLIP/article/view/20486</a>. \n\n<ul>\n<li> This article explains different types of evidence, and is a helpful guide for understanding how to use evidence to make better decisions as information professionals. You should consult it when writing your evidence summary.</li>\n</ul></li>\n<li> Meltzoff, J. (1998). Critical reading (Chapter 1) and Critical thinking about research (Chapter 2). In J. Meltzoff, <em>Critical thinking about Research</em> (3-48). Washington, D.C.: American Psychological Association.</li>\n</ul>"
+            },
+            "unique_id": "class-2018-06-27-evidence",
+            "group": "class"
+        },
+        {
+            "start_date": {
+                "year": "2018",
+                "month": "06",
+                "day": "28",
+                "hour": "11",
+                "minute": "30"
+            },
+            "end_date": {
+                "year": "2018",
+                "month": "06",
+                "day": "28",
+                "hour": "13",
+                "minute": "00"
+            },
+            "text": {
+                "headline": "<a href='/class/2018/06/28/ethics/'>Ethics</a>",
+                "text": "<ul>\n<li>Floridi,  L.  (2008). Foundations of  information ethics. In  <em>The    handbook    of  information and computer    ethics</em> (pp.    4-23).  Hoboken,    NJ: John    Wiley   &amp;   Sons,   Inc.<br /></li>\n<li>Gibson,   A.  N., and Hughes-Hassell, S.  (2017). We  will    not be  silent: Amplifying  marginalized    voices  in  LIS education   and research.   <em>Library    Quarterly,  87</em>(4). <a href=\"http://doi.org/10.1086/693488\">http://doi.org/10.1086/693488</a></li>\n<li>Saving    Lives   in  the Stacks. (2017,  June    21).    Retrieved   August  26, 2017,   from    <a href=\"https://americanlibrariesmagazine.org/2017/06/21/saving-lives-in-the-stacks/\">https://americanlibrariesmagazine.org/2017/06/21/saving-lives-in-the-stacks/</a></li>\n<li>Westbrook,    L.  (2015). “I’m    Not a   Social  Worker”:  An  Information Service Model   for Working with    Patrons in  Crisis. <em>Library    Quarterly:  Information,    Community,  Policy, 85</em>(1), 6–25. <a href=\"https://doi.org/10.1086/679023\">https://doi.org/10.1086/679023</a>.</li>\n<li>Coldewey, D. (2018, May 29). Students confront the unethical side of tech in “Designing for Evil” course. <em>TechCrunch.</em> Retrieved from <a href=\"http://social.techcrunch.com/2018/05/29/students-confront-the-unethical-side-of-tech-in-designing-for-evil-course/\">http://social.techcrunch.com/2018/05/29/students-confront-the-unethical-side-of-tech-in-designing-for-evil-course/</a></li>\n</ul>"
+            },
+            "unique_id": "class-2018-06-28-ethics",
+            "group": "class"
+        },
+        {
+            "start_date": {
+                "year": "2018",
+                "month": "07",
+                "day": "02",
+                "hour": "15",
+                "minute": "00"
+            },
+            "end_date": {
+                "year": "2018",
+                "month": "07",
+                "day": "02"
+            },
+            "text": {
+                "headline": "<a href='/assignments/2018/07/02/evidence-summary/'>Evidence summary</a>",
+                "text": "<p>This assignment is modeled on the evidence summaries regularly published in the journal, Evidence-Based Library &amp; Information Practice (<a href=\"http://ejournals.library.ualberta.ca/index.php/EBLIP/index\">http://ejournals.library.ualberta.ca/index.php/EBLIP/index</a>). As you can see from examining a few examples in the journal, each evidence summary focuses on a particular research study that has implications for the practice of the information professions. While most of the evidence summaries in the journal do focus on the practice of librarianship, this approach can (and will, in this assignment) be extended to any information practice setting that you want to explore for your future career.</p>\n\n<p><exceprt /></p>\n\n<h2 id=\"selecting-an-article\">Selecting an article</h2>\n\n<p>Your first step is to select an article that provides evidence that you&#39;d like to summarize. You might want to think about your term paper (it&#39;s never too early!) and select an article about the population you&#39;re interested in studying for that assignment.</p>\n\n<ul>\n<li>It must be an empirical study, broadly defined; to meet this criterion, the authors must have systematically collected data related to their research question and must have reported their findings. If you have questions about whether a particular article meets this criterion, please check with me prior to beginning the assignment.</li>\n<li>The article should be on a topic/question within the scope of this course, i.e., it should focus on human information interactions of some type.</li>\n<li>It may NOT be one of our required readings. You can, however, choose an article that has been cited (or that cites) an article we read for class. </li>\n<li>An evidence summary of your selected article should NOT have already been published in EBLIP. You can check this by going to the journal and using the Journal Content search box at the right of the page; search by the name of the author of the article you&#39;ve selected.</li>\n</ul>\n\n<h2 id=\"writing-the-evidence-summary\">Writing the evidence summary</h2>\n\n<p>The evidence summary itself is written in a very structured format - basically an extended abstract. It begins with brief descriptions of the study&#39;s objective(s), its design, its setting, its subjects/participants, and the methods used to carry it out. Then it reports the main results and the main conclusions that can be drawn from those results. Finally, the author of the summary comments on the implications of those conclusions for practice in the relevant information setting. Additional references pertinent to the commentary should be cited, as appropriate; these can include references in the original article but should also include relevant references not cited in the article being examined. The full evidence summary, excluding title, study citation, and additional references, should be 1000-1500 words. Make sure you include a full citation to the study you are summarizing.</p>"
+            },
+            "unique_id": "assignments-2018-07-02-evidence-summary",
+            "group": "assignments"
+        },
+        {
+            "start_date": {
+                "year": "2018",
+                "month": "07",
+                "day": "09",
+                "hour": "15",
+                "minute": "00"
+            },
+            "end_date": {
+                "year": "2018",
+                "month": "07",
+                "day": "09"
+            },
+            "text": {
+                "headline": "<a href='/assignments/2018/07/09/diary-and-analysis/'>Diary and analysis of an information seeking event</a>",
+                "text": "<p>In this assignment, you will collect observations of your own information seeking experiences over a short period of time, write these observations up in a descriptive account, and interpret your actions in light of the course readings and discussions to date. There are three purposes to this assignment:</p>\n\n<ol>\n<li>To observe and reflect upon a concrete example of information seeking by applying theories from our field;</li>\n<li>To choose your user group for your term paper;</li>\n<li>To begin collecting empirical research for your term paper. </li>\n</ol>\n\n<p>To choose your user group, brainstorm a list of populations of interest to you for your term paper. Remember that in this assignment you must select an identifiable group of people and provide a cogent, evidence-based analysis and synthesis of that group’s information behaviors. In order to do so, you must choose a group for which a body of published research is available. That is the focus of this diary and analysis assignment.</p>\n\n<h2 id=\"diary\">Diary</h2>\n\n<p>After brainstorming a list of potential populations of interest, begin searching for available literature on their information behaviors. As you search for relevant and useful articles, keep a record of your information interactions related to this process over the course of one to two weeks. This record, or diary, should chronicle the unfolding of the event, including an account of what you did and why you chose to do so. You should preserve as much detail about your information practices as possible, in order to lend context and chronology to your analysis. Questions you may ask yourself include:</p>\n\n<ul>\n<li>How did your information needs change over time?</li>\n<li>What motivated you along the way?</li>\n<li>Did any incidental discoveries in your information seeking lead to unexpected findings?</li>\n<li>When and why did you stop looking for information?</li>\n<li>Did your emotions affect your seeking process?</li>\n<li>Section 9 of this article may be useful for further prompts: Kelly, D. (2009). Methods for </li>\n</ul>\n\n<p>Evaluating Interactive Information Retrieval Systems with Users. Foundations and Trends in Information Retrieval, 3(1–2), 1–224. <a href=\"http://dx.doi.org/10.1561/1500000012\">http://dx.doi.org/10.1561/1500000012</a>.</p>\n\n<p>The diary does not need to be neat and orderly. It&#39;s more important that you record what&#39;s happening and what you&#39;re thinking/feeling as it&#39;s happening than that you present it neatly. It only needs to be neat enough so that you can interpret and remember what happened for your later analysis of the event.</p>\n\n<h2 id=\"analysis\">Analysis</h2>\n\n<p>For your analysis, relate your experience to at least two models of information behavior, which we discussed in the first six weeks of class. You may want to present this using a diagram or diagrams to aid your reader. Write a brief report (3-4 single-spaced pages) to interpret your experience. Instead of merely describing what happened at each step in the proess, concentrate on analyzing what happened and why you made the decisions you made as you sought out information. It is more important to hear your reactions to what you did than to hear what you did - how important was the information to you? What sources were consulted? What barriers or surprises did you experience? If you consulted systems or online sources, describe the interaction and why it worked, or did not. If you consulted other people, describe the interaction and how you were able to convey your need to this person. Why do you think your experience was a successful (or unsuccessful) one? What did you learn that you did not know beforehand? What would you do differently if a similar problem arises in the future?</p>\n\n<p>Be sure to relate your observations to readings and discussions from class. Cite them as appropriate. </p>"
+            },
+            "unique_id": "assignments-2018-07-09-diary-and-analysis",
+            "group": "assignments"
+        },
+        {
+            "start_date": {
+                "year": "2018",
+                "month": "07",
+                "day": "26",
+                "hour": "11",
+                "minute": "30"
+            },
+            "end_date": {
+                "year": "2018",
+                "month": "07",
+                "day": "26",
+                "hour": "13",
+                "minute": "00"
+            },
+            "text": {
+                "headline": "<a href='/class/2018/07/26/final-presentation/'>Present your work</a>",
+                "text": "<p>Today you we will have an informmal presentation and discussion about all of the work that you have done in the course of writing your term paper. </p>\n\n<p>This will involved a brief (5-10) minute presentation from each member of the class. You may use slides, give a summary handout, draw on the whiteboard, or use whatever other presentation materials or aides you find helpful. </p>"
+            },
+            "unique_id": "class-2018-07-26-final-presentation",
+            "group": "class"
+        },
+        {
+            "start_date": {
+                "year": "2018",
+                "month": "07",
+                "day": "26",
+                "hour": "23",
+                "minute": "59"
+            },
+            "end_date": {
+                "year": "2018",
+                "month": "07",
+                "day": "26"
+            },
+            "text": {
+                "headline": "<a href='/assignments/2018/07/26/term-paper/'>Term Paper</a>",
+                "text": "<p>You will select an identifiable group of people – a population of interest – and provide a cogent, evidence-based synthesis and analysis of their information behaviors. In doing so, you will apply the concepts from this course and draw conclusions for professional practice by recommending an information service or services for your chosen group. </p>\n\n<p>Your first step for this assignment will be to identify a user population of interest, which you did for your diary and analysis assignment due on July 9. Students have written on the information behaviors of the following groups: elders/seniors, doctors, high school students, pro se legal patrons, journalists, politicians, incarcerated people, caregivers (of stroke victims, cancer patients, etc.), parents of college-bound children, and amateur genealogists. Search for evidence-based literature on the information behaviors of your chosen population, using the search strategies  discussed by Bates and other authors on information seeking that we will cover in this class. Assemble, assess, and analyze this evidence in your term paper. </p>\n\n<p>Different user populations have different needs when it comes to information systems and services. Information professionals must often propose new ways to meet the needs of diverse user groups, using evidence. Together, as a class, we will discuss the role of evidence in making practice-based decisions, based on our readings in the second week (especially Koufogiannakis’s 2013 keynote address at the EBLIP7 gathering). After synthesizing the literature on the information behaviors of your population, address a potential service or services that might help address some of their needs. What implications do the needs of your user group have for practice? What issues need to be addressed when providing information services to meet their needs? What are some of their barriers to information? Is there a service you can provide that might help mitigate that barrier? Etc. </p>\n\n<p>There is no set length for your paper, but successful term papers are typically between 15 and 20 pages, double-spaced. Longer papers don’t usually yield better grades; being concise and clear in your writing is important. Shorter papers usually yield poorer grades, as they are often lacking detail. If you cite fewer than 10 references to scholarly literature in your paper, that is problematic. </p>\n\n<h2 id=\"typical-timeline\">Typical timeline</h2>\n\n<p>Take time throughout the semester to work on this paper. Last-minute term papers are stressful. They also typically don’t yield the best results. </p>\n\n<ul>\n<li>Week 1: You should have a sense of what group you are interested in. Begin exploring that group via literature searches through library databases. Use these ideas to choose an article for your evidence-based summary, if you like.</li>\n<li>Week 2: You should have firmed up your group selection with several relevant references to published literature on that particular group.</li>\n<li>Week 3: The majority of your references are read, and you’ve made a concept matrix or a concept map of the themes in the articles.</li>\n<li>Week 4: Start drafting your paper, using the concept matrix to outline your argument. Fill in any gaps that arise by reading other literature, if necessary.</li>\n<li>Week 4: Draft of paper finished. </li>\n<li>End of week 5: Final paper finished. Be prepared to discuss it in class.</li>\n</ul>\n\n<h2 id=\"typical-organization\">Typical organization</h2>\n\n<ol>\n<li>Abstract (1/2 page): Provide a short description of your manuscript: tell your reader what they can expect to read. Using a reverse outline technique can be helpful here; we will discuss this more in class.</li>\n<li>Introduction (2 – 3 pages): Frame your interest in your selected topic and population. Why should your reader care about your paper? Give your reader a reason to keep reading. </li>\n<li>Literature review (7 – 10 pages): This is a critical review, and you will want to present your results in a logical, organized fashion. Arrange your review topically, not by author – you don’t want to present paragraph after paragraph summarizing each article separately. Instead, synthesize your literature. You might find a concept matrix to be helpful as you work through organizing your review; we will discuss how to make a concept matrix in class.</li>\n<li>Proposal for service(s) (3 – 5 pages): After covering the information behaviors of your chosen population, apply your understanding of information use to that understanding. Suggest a service or services that might be helpful in meeting the information needs and seeking behaviors/practices/activities of your population. It is usually helpful to contextualize your service within an information organization of some kind: a public library, a corporation, a hospital, etc.</li>\n<li>Conclusion (2 – 3 pages): Pull everything together here and provide a broad overview of the argument you made in your paper. You may want to point out areas for future research in the information behaviors of your population here, or make suggestions for how to assess the success of the services you proposed.</li>\n<li>References: Use APA format to create your reference list. A reference manager like Paperpile, Zotero, or RefWorks can be helpful here. </li>\n</ol>"
+            },
+            "unique_id": "assignments-2018-07-26-term-paper",
+            "group": "assignments"
+        },
+        {
+            "start_date": {
+                "year": "2018",
+                "month": "07",
+                "day": "31",
+                "hour": "18",
+                "minute": "00"
+            },
+            "end_date": {
+                "year": "2018",
+                "month": "07",
+                "day": "31"
+            },
+            "text": {
+                "headline": "<a href='/assignments/2018/07/31/final-exam/'>Final exam</a>",
+                "text": "<p>The final exam is meant to be a comprehensive self-assessment of how well you met the course objectives. </p>\n\n<p>You will be given your responses to the final exam that we took on the first day of class and be asked to evaluate how well you met each objective, providing evidence from the discussions, your work, and your experiences.</p>"
+            },
+            "unique_id": "assignments-2018-07-31-final-exam",
+            "group": "assignments"
+        }
+    ],
+    "eras": [
+    ]
+}

@@ -1,389 +1,283 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
-	<channel>
-		<title></title>
-		<description>The behavioral and cognitive activities of those who interact with information, with emphasis on the role of information mediators. How information needs are recognized and resolved; use and dissemination of information.</description>		
-		<link>https://inls500.johndmart.in</link>
-		<atom:link href="https://inls500.johndmart.in/feed.xml" rel="self" type="application/rss+xml" />
-		
-			<item>
-				<title>What is information behavior?</title>
-				        
-				
-					<description>&lt;p&gt;Welcome to INLS500. 
-This is a course about the ways that people interact with information. &lt;/p&gt;
-</description>
-				
-				<pubDate>Wed, 24 Aug 2016 00:00:00 -0400</pubDate>
-				<link>https://inls500.johndmart.in/basic%20concepts/2016/08/24/what-is-information-behavior/</link>
-				<guid isPermaLink="true">https://inls500.johndmart.in/basic%20concepts/2016/08/24/what-is-information-behavior/</guid>
-			</item>
-		
-			<item>
-				<title>Trends in human information interaction research</title>
-				        
-				
-					<description></description>
-				
-				<pubDate>Mon, 29 Aug 2016 00:00:00 -0400</pubDate>
-				<link>https://inls500.johndmart.in/basic%20concepts/2016/08/29/trends-in-human-information-interaction-research/</link>
-				<guid isPermaLink="true">https://inls500.johndmart.in/basic%20concepts/2016/08/29/trends-in-human-information-interaction-research/</guid>
-			</item>
-		
-			<item>
-				<title>Theoretical perspectives and basic concepts</title>
-				        
-				
-					<description>&lt;p&gt;This session is an overview of the place of theory in information science, as well as a conceptual overview of the field.&lt;/p&gt;
-</description>
-				
-				<pubDate>Wed, 31 Aug 2016 00:00:00 -0400</pubDate>
-				<link>https://inls500.johndmart.in/basic%20concepts/2016/08/31/theoretical-perspectives-and-basic-concepts/</link>
-				<guid isPermaLink="true">https://inls500.johndmart.in/basic%20concepts/2016/08/31/theoretical-perspectives-and-basic-concepts/</guid>
-			</item>
-		
-			<item>
-				<title>Labor day</title>
-				        
-				
-					<description>&lt;p&gt;Have a good weekend. &lt;/p&gt;
-</description>
-				
-				<pubDate>Mon, 05 Sep 2016 00:00:00 -0400</pubDate>
-				<link>https://inls500.johndmart.in/break/2016/09/05/labor-day/</link>
-				<guid isPermaLink="true">https://inls500.johndmart.in/break/2016/09/05/labor-day/</guid>
-			</item>
-		
-			<item>
-				<title>Affective approaches to information behavior research</title>
-				        
-				
-					<description>&lt;p&gt;Today we consider affective, or emotion-based, approaches to information behavior research. &lt;/p&gt;
-</description>
-				
-				<pubDate>Wed, 07 Sep 2016 00:00:00 -0400</pubDate>
-				<link>https://inls500.johndmart.in/basic%20concepts/2016/09/07/affective-approaches-to-information-behavior-research/</link>
-				<guid isPermaLink="true">https://inls500.johndmart.in/basic%20concepts/2016/09/07/affective-approaches-to-information-behavior-research/</guid>
-			</item>
-		
-			<item>
-				<title>Cognitive approaches to information behavior research</title>
-				        
-				
-					<description></description>
-				
-				<pubDate>Mon, 12 Sep 2016 00:00:00 -0400</pubDate>
-				<link>https://inls500.johndmart.in/basic%20concepts/2016/09/12/cognitive-approaches-to-information-behavior-research/</link>
-				<guid isPermaLink="true">https://inls500.johndmart.in/basic%20concepts/2016/09/12/cognitive-approaches-to-information-behavior-research/</guid>
-			</item>
-		
-			<item>
-				<title>Experiencing an information need</title>
-				        
-				
-					<description></description>
-				
-				<pubDate>Wed, 14 Sep 2016 00:00:00 -0400</pubDate>
-				<link>https://inls500.johndmart.in/information%20needs/2016/09/14/experiencing-an-information-need/</link>
-				<guid isPermaLink="true">https://inls500.johndmart.in/information%20needs/2016/09/14/experiencing-an-information-need/</guid>
-			</item>
-		
-			<item>
-				<title>Expressing information needs</title>
-				        
-				
-					<description></description>
-				
-				<pubDate>Mon, 19 Sep 2016 00:00:00 -0400</pubDate>
-				<link>https://inls500.johndmart.in/information%20needs/2016/09/19/expressing-information-needs/</link>
-				<guid isPermaLink="true">https://inls500.johndmart.in/information%20needs/2016/09/19/expressing-information-needs/</guid>
-			</item>
-		
-			<item>
-				<title>Studying/analyzing information needs</title>
-				        
-				
-					<description>&lt;p&gt;Today we will have a broad-based discussion about the foci of information needs research and discuss more specifically how it is conducted.
-This includes considering what the target outcomes of the research are. 
-We will also discuss the underlying motivations of research in this area more specifically than in previous sessions. &lt;/p&gt;
-</description>
-				
-				<pubDate>Wed, 21 Sep 2016 00:00:00 -0400</pubDate>
-				<link>https://inls500.johndmart.in/information%20needs/2016/09/21/studying-analyzing-information-needs/</link>
-				<guid isPermaLink="true">https://inls500.johndmart.in/information%20needs/2016/09/21/studying-analyzing-information-needs/</guid>
-			</item>
-		
-			<item>
-				<title>Information source horizons</title>
-				        
-				
-					<description>&lt;p&gt;We&amp;#39;ll talk about source selection today and some of the ways that people move through selecting sources. &lt;/p&gt;
-</description>
-				
-				<pubDate>Mon, 26 Sep 2016 00:00:00 -0400</pubDate>
-				<link>https://inls500.johndmart.in/information%20seeking/2016/09/26/information-source-horizons/</link>
-				<guid isPermaLink="true">https://inls500.johndmart.in/information%20seeking/2016/09/26/information-source-horizons/</guid>
-			</item>
-		
-			<item>
-				<title>Incidental information acquisition: Browsing and serendipity</title>
-				        
-				
-					<description></description>
-				
-				<pubDate>Wed, 28 Sep 2016 00:00:00 -0400</pubDate>
-				<link>https://inls500.johndmart.in/information%20seeking/2016/09/28/incidental-information-acquisition-browsing-and-serendipity/</link>
-				<guid isPermaLink="true">https://inls500.johndmart.in/information%20seeking/2016/09/28/incidental-information-acquisition-browsing-and-serendipity/</guid>
-			</item>
-		
-			<item>
-				<title>Interactive information retrieval as part of the information seeking process</title>
-				        
-				
-					<description>&lt;p&gt;Today we welcome Anita Crescenzi, my fellow PhD student, instructor of INLS 500, and expert in interactive information retrieval. 
-She will be covering, no surprises, interactive information retrieval (IIR). 
-We&amp;#39;re very lucky to have her with us. &lt;/p&gt;
-</description>
-				
-				<pubDate>Mon, 03 Oct 2016 00:00:00 -0400</pubDate>
-				<link>https://inls500.johndmart.in/information%20seeking/2016/10/03/interactive-information-retrieval-as-part-of-the-information-seeking-process/</link>
-				<guid isPermaLink="true">https://inls500.johndmart.in/information%20seeking/2016/10/03/interactive-information-retrieval-as-part-of-the-information-seeking-process/</guid>
-			</item>
-		
-			<item>
-				<title>Assessment of information quality/value</title>
-				        
-				
-					<description>&lt;p&gt;These two studies are examining very similar behaviors, so we&amp;#39;ll focus our attention on the differences between them. Pay attention to the research questions asked, who is included in the study sample, what data were collected, and what conclusions were drawn. You may want to refer to the &lt;a href=&quot;/reference/rapid-reading/&quot;&gt;rapid reading guide&lt;/a&gt; in taking your notes, as these are the features that we will use to compare.&lt;/p&gt;
-</description>
-				
-				<pubDate>Wed, 05 Oct 2016 00:00:00 -0400</pubDate>
-				<link>https://inls500.johndmart.in/information%20seeking/2016/10/05/assessment-of-information-quality-value/</link>
-				<guid isPermaLink="true">https://inls500.johndmart.in/information%20seeking/2016/10/05/assessment-of-information-quality-value/</guid>
-			</item>
-		
-			<item>
-				<title>Relevance judgments</title>
-				        
-				
-					<description></description>
-				
-				<pubDate>Mon, 10 Oct 2016 00:00:00 -0400</pubDate>
-				<link>https://inls500.johndmart.in/information%20seeking/2016/10/10/relevance-judgments/</link>
-				<guid isPermaLink="true">https://inls500.johndmart.in/information%20seeking/2016/10/10/relevance-judgments/</guid>
-			</item>
-		
-			<item>
-				<title>Ways of using information</title>
-				        
-				
-					<description></description>
-				
-				<pubDate>Wed, 12 Oct 2016 00:00:00 -0400</pubDate>
-				<link>https://inls500.johndmart.in/information%20use/2016/10/12/ways-of-using-information/</link>
-				<guid isPermaLink="true">https://inls500.johndmart.in/information%20use/2016/10/12/ways-of-using-information/</guid>
-			</item>
-		
-			<item>
-				<title>Re-using and re-finding information</title>
-				        
-				
-					<description>&lt;p&gt;Prof. Amelia Gibson will join us as guest lecturer today. &lt;/p&gt;
-</description>
-				
-				<pubDate>Mon, 17 Oct 2016 00:00:00 -0400</pubDate>
-				<link>https://inls500.johndmart.in/information%20use/2016/10/17/re-using-and-re-finding-information/</link>
-				<guid isPermaLink="true">https://inls500.johndmart.in/information%20use/2016/10/17/re-using-and-re-finding-information/</guid>
-			</item>
-		
-			<item>
-				<title>Work day</title>
-				        
-				
-					<description>&lt;p&gt;We will not hold class today in the traditional sense of gathering in a room together and talking about stuff. 
-Instead, you will have today to work on your upcoming system/service proposal assignment. &lt;/p&gt;
-</description>
-				
-				<pubDate>Wed, 19 Oct 2016 00:00:00 -0400</pubDate>
-				<link>https://inls500.johndmart.in/work/2016/10/19/work-day-meet-in-groups/</link>
-				<guid isPermaLink="true">https://inls500.johndmart.in/work/2016/10/19/work-day-meet-in-groups/</guid>
-			</item>
-		
-			<item>
-				<title>Situation and context: social paradigms of information behavior</title>
-				        
-				
-					<description></description>
-				
-				<pubDate>Mon, 24 Oct 2016 00:00:00 -0400</pubDate>
-				<link>https://inls500.johndmart.in/impact%20of%20context%20on%20information%20seeking%20and%20use/2016/10/24/situation-and-context-social-paradigms-of-information-behavior/</link>
-				<guid isPermaLink="true">https://inls500.johndmart.in/impact%20of%20context%20on%20information%20seeking%20and%20use/2016/10/24/situation-and-context-social-paradigms-of-information-behavior/</guid>
-			</item>
-		
-			<item>
-				<title>Information poverty, small worlds, and community contexts</title>
-				        
-				
-					<description></description>
-				
-				<pubDate>Wed, 26 Oct 2016 00:00:00 -0400</pubDate>
-				<link>https://inls500.johndmart.in/impact%20of%20context%20on%20information%20seeking%20and%20use/2016/10/26/information-poverty-small-worlds-and-community-contexts/</link>
-				<guid isPermaLink="true">https://inls500.johndmart.in/impact%20of%20context%20on%20information%20seeking%20and%20use/2016/10/26/information-poverty-small-worlds-and-community-contexts/</guid>
-			</item>
-		
-			<item>
-				<title>Domain, disciplinary, and organizational context</title>
-				        
-				
-					<description></description>
-				
-				<pubDate>Mon, 31 Oct 2016 00:00:00 -0400</pubDate>
-				<link>https://inls500.johndmart.in/impact%20of%20context%20on%20information%20seeking%20and%20use/2016/10/31/domain-disciplinary-and-organizational-context/</link>
-				<guid isPermaLink="true">https://inls500.johndmart.in/impact%20of%20context%20on%20information%20seeking%20and%20use/2016/10/31/domain-disciplinary-and-organizational-context/</guid>
-			</item>
-		
-			<item>
-				<title>Everyday life information seeking</title>
-				        
-				
-					<description></description>
-				
-				<pubDate>Wed, 02 Nov 2016 00:00:00 -0400</pubDate>
-				<link>https://inls500.johndmart.in/impact%20of%20context%20on%20information%20seeking%20and%20use/2016/11/02/everyday-life-information-seeking/</link>
-				<guid isPermaLink="true">https://inls500.johndmart.in/impact%20of%20context%20on%20information%20seeking%20and%20use/2016/11/02/everyday-life-information-seeking/</guid>
-			</item>
-		
-			<item>
-				<title>Human intermediaries and imposed queries</title>
-				        
-				
-					<description></description>
-				
-				<pubDate>Mon, 07 Nov 2016 00:00:00 -0500</pubDate>
-				<link>https://inls500.johndmart.in/intermediation%20and%20dis-intermediation%20in%20information%20seeking/2016/11/07/human-intermediaries-and-imposed-queries/</link>
-				<guid isPermaLink="true">https://inls500.johndmart.in/intermediation%20and%20dis-intermediation%20in%20information%20seeking/2016/11/07/human-intermediaries-and-imposed-queries/</guid>
-			</item>
-		
-			<item>
-				<title>Class canceled</title>
-				        
-				
-					<description></description>
-				
-				<pubDate>Wed, 09 Nov 2016 00:00:00 -0500</pubDate>
-				<link>https://inls500.johndmart.in/break/2016/11/09/canceled/</link>
-				<guid isPermaLink="true">https://inls500.johndmart.in/break/2016/11/09/canceled/</guid>
-			</item>
-		
-			<item>
-				<title>Social intermediaton (apomediation)</title>
-				        
-				
-					<description>&lt;p&gt;Please read both of the Eysenbach articles above and then choose one of the other articles by Chen, Costello, or Vasilescu.&lt;/p&gt;
-</description>
-				
-				<pubDate>Mon, 14 Nov 2016 00:00:00 -0500</pubDate>
-				<link>https://inls500.johndmart.in/intermediation%20and%20dis-intermediation%20in%20information%20seeking/2016/11/14/social-intermediation-recommender-systems-social-q-a-collaborative-search/</link>
-				<guid isPermaLink="true">https://inls500.johndmart.in/intermediation%20and%20dis-intermediation%20in%20information%20seeking/2016/11/14/social-intermediation-recommender-systems-social-q-a-collaborative-search/</guid>
-			</item>
-		
-			<item>
-				<title>Information retrieval systems as intermediaries</title>
-				        
-				
-					<description>&lt;p&gt;Today we will be joined by Anita Crescenzi, who will talk to us about Interactive Information Retrieval (IIR) systems as intermediaries between people and information. &lt;/p&gt;
-</description>
-				
-				<pubDate>Wed, 16 Nov 2016 00:00:00 -0500</pubDate>
-				<link>https://inls500.johndmart.in/intermediation%20and%20dis-intermediation%20in%20information%20seeking/2016/11/16/information-retrieval-systems-as-intermediaries/</link>
-				<guid isPermaLink="true">https://inls500.johndmart.in/intermediation%20and%20dis-intermediation%20in%20information%20seeking/2016/11/16/information-retrieval-systems-as-intermediaries/</guid>
-			</item>
-		
-			<item>
-				<title>Ethics of online information behavior research</title>
-				        
-				
-					<description>&lt;p&gt;There are no new assigned readings for today. We will be revisiting several of the articles from last time through the lens of research and information ethics. &lt;/p&gt;
-</description>
-				
-				<pubDate>Mon, 21 Nov 2016 00:00:00 -0500</pubDate>
-				<link>https://inls500.johndmart.in/intermediation/2016/11/21/information-research-and-ethics/</link>
-				<guid isPermaLink="true">https://inls500.johndmart.in/intermediation/2016/11/21/information-research-and-ethics/</guid>
-			</item>
-		
-			<item>
-				<title>Thanksgiving break</title>
-				        
-				
-					<description>&lt;p&gt;Have a good weekend. &lt;/p&gt;
-</description>
-				
-				<pubDate>Wed, 23 Nov 2016 00:00:00 -0500</pubDate>
-				<link>https://inls500.johndmart.in/break/2016/11/23/thanksgiving-break/</link>
-				<guid isPermaLink="true">https://inls500.johndmart.in/break/2016/11/23/thanksgiving-break/</guid>
-			</item>
-		
-			<item>
-				<title>Scholarly work and the role of scholarly communication</title>
-				        
-				
-					<description>&lt;p&gt;Skim or read both of these articles AFTER class today. We will have an open discussion about what the role of scholarly communication is in the academy and society. We will draw on our experience from this semester assembling a body of literature to support further research or action.&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Human Information Interactions</title>
+    <description>The behavioral and cognitive activities of those who interact with information, with emphasis on the role of information mediators. How information needs are recognized and resolved; use and dissemination of information.</description>
+    <link>https://inls500.johndmart.in/</link>
+    <atom:link href="https://inls500.johndmart.in/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 25 Jun 2018 13:59:36 -0400</pubDate>
+    <lastBuildDate>Mon, 25 Jun 2018 13:59:36 -0400</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Final exam</title>
+        <description>&lt;p&gt;The final exam is meant to be a comprehensive self-assessment of how well you met the course objectives. &lt;/p&gt;
 
-&lt;p&gt;I would also like you to watch this &lt;a href=&quot;https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government&quot;&gt;TED Talk by Clay Shirky&lt;/a&gt; on the origins of open source (which also discusses the origins of scholarly communication). 
-The theme of the talk is on open source government, but the content is entirely relevant to our current topic.&lt;/p&gt;
+&lt;p&gt;You will be given your responses to the final exam that we took on the first day of class and be asked to evaluate how well you met each objective, providing evidence from the discussions, your work, and your experiences.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 31 Jul 2018 00:00:00 -0400</pubDate>
+        <link>https://inls500.johndmart.in/assignments/2018/07/31/final-exam/</link>
+        <guid isPermaLink="true">https://inls500.johndmart.in/assignments/2018/07/31/final-exam/</guid>
+        
+        
+        <category>assignments</category>
+        
+      </item>
+    
+      <item>
+        <title>Term Paper</title>
+        <description>&lt;p&gt;You will select an identifiable group of people – a population of interest – and provide a cogent, evidence-based synthesis and analysis of their information behaviors. In doing so, you will apply the concepts from this course and draw conclusions for professional practice by recommending an information service or services for your chosen group. &lt;/p&gt;
 
-&lt;iframe src=&quot;https://embed.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government&quot; width=&quot;560&quot; height=&quot;315&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
+&lt;p&gt;Your first step for this assignment will be to identify a user population of interest, which you did for your diary and analysis assignment due on July 9. Students have written on the information behaviors of the following groups: elders/seniors, doctors, high school students, pro se legal patrons, journalists, politicians, incarcerated people, caregivers (of stroke victims, cancer patients, etc.), parents of college-bound children, and amateur genealogists. Search for evidence-based literature on the information behaviors of your chosen population, using the search strategies  discussed by Bates and other authors on information seeking that we will cover in this class. Assemble, assess, and analyze this evidence in your term paper. &lt;/p&gt;
+
+&lt;p&gt;Different user populations have different needs when it comes to information systems and services. Information professionals must often propose new ways to meet the needs of diverse user groups, using evidence. Together, as a class, we will discuss the role of evidence in making practice-based decisions, based on our readings in the second week (especially Koufogiannakis’s 2013 keynote address at the EBLIP7 gathering). After synthesizing the literature on the information behaviors of your population, address a potential service or services that might help address some of their needs. What implications do the needs of your user group have for practice? What issues need to be addressed when providing information services to meet their needs? What are some of their barriers to information? Is there a service you can provide that might help mitigate that barrier? Etc. &lt;/p&gt;
+
+&lt;p&gt;There is no set length for your paper, but successful term papers are typically between 15 and 20 pages, double-spaced. Longer papers don’t usually yield better grades; being concise and clear in your writing is important. Shorter papers usually yield poorer grades, as they are often lacking detail. If you cite fewer than 10 references to scholarly literature in your paper, that is problematic. &lt;/p&gt;
+
+&lt;h2 id=&quot;typical-timeline&quot;&gt;Typical timeline&lt;/h2&gt;
+
+&lt;p&gt;Take time throughout the semester to work on this paper. Last-minute term papers are stressful. They also typically don’t yield the best results. &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Week 1: You should have a sense of what group you are interested in. Begin exploring that group via literature searches through library databases. Use these ideas to choose an article for your evidence-based summary, if you like.&lt;/li&gt;
+&lt;li&gt;Week 2: You should have firmed up your group selection with several relevant references to published literature on that particular group.&lt;/li&gt;
+&lt;li&gt;Week 3: The majority of your references are read, and you’ve made a concept matrix or a concept map of the themes in the articles.&lt;/li&gt;
+&lt;li&gt;Week 4: Start drafting your paper, using the concept matrix to outline your argument. Fill in any gaps that arise by reading other literature, if necessary.&lt;/li&gt;
+&lt;li&gt;Week 4: Draft of paper finished. &lt;/li&gt;
+&lt;li&gt;End of week 5: Final paper finished. Be prepared to discuss it in class.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;typical-organization&quot;&gt;Typical organization&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Abstract (1/2 page): Provide a short description of your manuscript: tell your reader what they can expect to read. Using a reverse outline technique can be helpful here; we will discuss this more in class.&lt;/li&gt;
+&lt;li&gt;Introduction (2 – 3 pages): Frame your interest in your selected topic and population. Why should your reader care about your paper? Give your reader a reason to keep reading. &lt;/li&gt;
+&lt;li&gt;Literature review (7 – 10 pages): This is a critical review, and you will want to present your results in a logical, organized fashion. Arrange your review topically, not by author – you don’t want to present paragraph after paragraph summarizing each article separately. Instead, synthesize your literature. You might find a concept matrix to be helpful as you work through organizing your review; we will discuss how to make a concept matrix in class.&lt;/li&gt;
+&lt;li&gt;Proposal for service(s) (3 – 5 pages): After covering the information behaviors of your chosen population, apply your understanding of information use to that understanding. Suggest a service or services that might be helpful in meeting the information needs and seeking behaviors/practices/activities of your population. It is usually helpful to contextualize your service within an information organization of some kind: a public library, a corporation, a hospital, etc.&lt;/li&gt;
+&lt;li&gt;Conclusion (2 – 3 pages): Pull everything together here and provide a broad overview of the argument you made in your paper. You may want to point out areas for future research in the information behaviors of your population here, or make suggestions for how to assess the success of the services you proposed.&lt;/li&gt;
+&lt;li&gt;References: Use APA format to create your reference list. A reference manager like Paperpile, Zotero, or RefWorks can be helpful here. &lt;/li&gt;
+&lt;/ol&gt;
 </description>
-				
-				<pubDate>Mon, 28 Nov 2016 00:00:00 -0500</pubDate>
-				<link>https://inls500.johndmart.in/scholarly%20communication/2016/11/28/scholarly-work-and-the-role-of-scholarly-communication/</link>
-				<guid isPermaLink="true">https://inls500.johndmart.in/scholarly%20communication/2016/11/28/scholarly-work-and-the-role-of-scholarly-communication/</guid>
-			</item>
-		
-			<item>
-				<title>Metrics of scholarly productivity</title>
-				        
-				
-					<description></description>
-				
-				<pubDate>Wed, 30 Nov 2016 00:00:00 -0500</pubDate>
-				<link>https://inls500.johndmart.in/scholarly%20communication/2016/11/30/metrics-of-scholarly-productivity/</link>
-				<guid isPermaLink="true">https://inls500.johndmart.in/scholarly%20communication/2016/11/30/metrics-of-scholarly-productivity/</guid>
-			</item>
-		
-			<item>
-				<title>Scholarly publishing as an industry</title>
-				        
-				
-					<description></description>
-				
-				<pubDate>Mon, 05 Dec 2016 00:00:00 -0500</pubDate>
-				<link>https://inls500.johndmart.in/scholarly%20communication/2016/12/05/scholarly-publishing-as-an-industry/</link>
-				<guid isPermaLink="true">https://inls500.johndmart.in/scholarly%20communication/2016/12/05/scholarly-publishing-as-an-industry/</guid>
-			</item>
-		
-			<item>
-				<title>The future of information</title>
-				        
-				
-					<description>&lt;p&gt;In addition to the readings, this Saturday Morning Breakfast Cereal comic is assigned: &lt;a href=&quot;http://www.smbc-comics.com/comic/minority-report&quot;&gt;Minority Report - SMBC&lt;/a&gt;.&lt;/p&gt;
+        <pubDate>Thu, 26 Jul 2018 00:00:00 -0400</pubDate>
+        <link>https://inls500.johndmart.in/assignments/2018/07/26/term-paper/</link>
+        <guid isPermaLink="true">https://inls500.johndmart.in/assignments/2018/07/26/term-paper/</guid>
+        
+        
+        <category>assignments</category>
+        
+      </item>
+    
+      <item>
+        <title>Present your work</title>
+        <description>&lt;p&gt;Today you we will have an informmal presentation and discussion about all of the work that you have done in the course of writing your term paper. &lt;/p&gt;
+
+&lt;p&gt;This will involved a brief (5-10) minute presentation from each member of the class. You may use slides, give a summary handout, draw on the whiteboard, or use whatever other presentation materials or aides you find helpful. &lt;/p&gt;
 </description>
-				
-				<pubDate>Wed, 07 Dec 2016 00:00:00 -0500</pubDate>
-				<link>https://inls500.johndmart.in/future/2016/12/07/the-future-of-information-and-course-wrapup/</link>
-				<guid isPermaLink="true">https://inls500.johndmart.in/future/2016/12/07/the-future-of-information-and-course-wrapup/</guid>
-			</item>
-		
-			<item>
-				<title>Exam day</title>
-				        
-				
-					<description></description>
-				
-				<pubDate>Fri, 16 Dec 2016 00:00:00 -0500</pubDate>
-				<link>https://inls500.johndmart.in/break/2016/12/16/exam-day/</link>
-				<guid isPermaLink="true">https://inls500.johndmart.in/break/2016/12/16/exam-day/</guid>
-			</item>
-		
-	</channel>
+        <pubDate>Thu, 26 Jul 2018 00:00:00 -0400</pubDate>
+        <link>https://inls500.johndmart.in/class/2018/07/26/final-presentation/</link>
+        <guid isPermaLink="true">https://inls500.johndmart.in/class/2018/07/26/final-presentation/</guid>
+        
+        <category>presentation skills</category>
+        
+        <category>talking about research</category>
+        
+        <category>group discussion</category>
+        
+        
+        <category>class</category>
+        
+      </item>
+    
+      <item>
+        <title>Diary and analysis of an information seeking event</title>
+        <description>&lt;p&gt;In this assignment, you will collect observations of your own information seeking experiences over a short period of time, write these observations up in a descriptive account, and interpret your actions in light of the course readings and discussions to date. There are three purposes to this assignment:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;To observe and reflect upon a concrete example of information seeking by applying theories from our field;&lt;/li&gt;
+&lt;li&gt;To choose your user group for your term paper;&lt;/li&gt;
+&lt;li&gt;To begin collecting empirical research for your term paper. &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;To choose your user group, brainstorm a list of populations of interest to you for your term paper. Remember that in this assignment you must select an identifiable group of people and provide a cogent, evidence-based analysis and synthesis of that group’s information behaviors. In order to do so, you must choose a group for which a body of published research is available. That is the focus of this diary and analysis assignment.&lt;/p&gt;
+
+&lt;h2 id=&quot;diary&quot;&gt;Diary&lt;/h2&gt;
+
+&lt;p&gt;After brainstorming a list of potential populations of interest, begin searching for available literature on their information behaviors. As you search for relevant and useful articles, keep a record of your information interactions related to this process over the course of one to two weeks. This record, or diary, should chronicle the unfolding of the event, including an account of what you did and why you chose to do so. You should preserve as much detail about your information practices as possible, in order to lend context and chronology to your analysis. Questions you may ask yourself include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;How did your information needs change over time?&lt;/li&gt;
+&lt;li&gt;What motivated you along the way?&lt;/li&gt;
+&lt;li&gt;Did any incidental discoveries in your information seeking lead to unexpected findings?&lt;/li&gt;
+&lt;li&gt;When and why did you stop looking for information?&lt;/li&gt;
+&lt;li&gt;Did your emotions affect your seeking process?&lt;/li&gt;
+&lt;li&gt;Section 9 of this article may be useful for further prompts: Kelly, D. (2009). Methods for &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Evaluating Interactive Information Retrieval Systems with Users. Foundations and Trends in Information Retrieval, 3(1–2), 1–224. &lt;a href=&quot;http://dx.doi.org/10.1561/1500000012&quot;&gt;http://dx.doi.org/10.1561/1500000012&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The diary does not need to be neat and orderly. It&amp;#39;s more important that you record what&amp;#39;s happening and what you&amp;#39;re thinking/feeling as it&amp;#39;s happening than that you present it neatly. It only needs to be neat enough so that you can interpret and remember what happened for your later analysis of the event.&lt;/p&gt;
+
+&lt;h2 id=&quot;analysis&quot;&gt;Analysis&lt;/h2&gt;
+
+&lt;p&gt;For your analysis, relate your experience to at least two models of information behavior, which we discussed in the first six weeks of class. You may want to present this using a diagram or diagrams to aid your reader. Write a brief report (3-4 single-spaced pages) to interpret your experience. Instead of merely describing what happened at each step in the proess, concentrate on analyzing what happened and why you made the decisions you made as you sought out information. It is more important to hear your reactions to what you did than to hear what you did - how important was the information to you? What sources were consulted? What barriers or surprises did you experience? If you consulted systems or online sources, describe the interaction and why it worked, or did not. If you consulted other people, describe the interaction and how you were able to convey your need to this person. Why do you think your experience was a successful (or unsuccessful) one? What did you learn that you did not know beforehand? What would you do differently if a similar problem arises in the future?&lt;/p&gt;
+
+&lt;p&gt;Be sure to relate your observations to readings and discussions from class. Cite them as appropriate. &lt;/p&gt;
+</description>
+        <pubDate>Mon, 09 Jul 2018 00:00:00 -0400</pubDate>
+        <link>https://inls500.johndmart.in/assignments/2018/07/09/diary-and-analysis/</link>
+        <guid isPermaLink="true">https://inls500.johndmart.in/assignments/2018/07/09/diary-and-analysis/</guid>
+        
+        
+        <category>assignments</category>
+        
+      </item>
+    
+      <item>
+        <title>Evidence summary</title>
+        <description>&lt;p&gt;This assignment is modeled on the evidence summaries regularly published in the journal, Evidence-Based Library &amp;amp; Information Practice (&lt;a href=&quot;http://ejournals.library.ualberta.ca/index.php/EBLIP/index&quot;&gt;http://ejournals.library.ualberta.ca/index.php/EBLIP/index&lt;/a&gt;). As you can see from examining a few examples in the journal, each evidence summary focuses on a particular research study that has implications for the practice of the information professions. While most of the evidence summaries in the journal do focus on the practice of librarianship, this approach can (and will, in this assignment) be extended to any information practice setting that you want to explore for your future career.&lt;/p&gt;
+
+&lt;p&gt;&lt;exceprt/&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;selecting-an-article&quot;&gt;Selecting an article&lt;/h2&gt;
+
+&lt;p&gt;Your first step is to select an article that provides evidence that you&amp;#39;d like to summarize. You might want to think about your term paper (it&amp;#39;s never too early!) and select an article about the population you&amp;#39;re interested in studying for that assignment.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;It must be an empirical study, broadly defined; to meet this criterion, the authors must have systematically collected data related to their research question and must have reported their findings. If you have questions about whether a particular article meets this criterion, please check with me prior to beginning the assignment.&lt;/li&gt;
+&lt;li&gt;The article should be on a topic/question within the scope of this course, i.e., it should focus on human information interactions of some type.&lt;/li&gt;
+&lt;li&gt;It may NOT be one of our required readings. You can, however, choose an article that has been cited (or that cites) an article we read for class. &lt;/li&gt;
+&lt;li&gt;An evidence summary of your selected article should NOT have already been published in EBLIP. You can check this by going to the journal and using the Journal Content search box at the right of the page; search by the name of the author of the article you&amp;#39;ve selected.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;writing-the-evidence-summary&quot;&gt;Writing the evidence summary&lt;/h2&gt;
+
+&lt;p&gt;The evidence summary itself is written in a very structured format - basically an extended abstract. It begins with brief descriptions of the study&amp;#39;s objective(s), its design, its setting, its subjects/participants, and the methods used to carry it out. Then it reports the main results and the main conclusions that can be drawn from those results. Finally, the author of the summary comments on the implications of those conclusions for practice in the relevant information setting. Additional references pertinent to the commentary should be cited, as appropriate; these can include references in the original article but should also include relevant references not cited in the article being examined. The full evidence summary, excluding title, study citation, and additional references, should be 1000-1500 words. Make sure you include a full citation to the study you are summarizing.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 02 Jul 2018 00:00:00 -0400</pubDate>
+        <link>https://inls500.johndmart.in/assignments/2018/07/02/evidence-summary/</link>
+        <guid isPermaLink="true">https://inls500.johndmart.in/assignments/2018/07/02/evidence-summary/</guid>
+        
+        
+        <category>assignments</category>
+        
+      </item>
+    
+      <item>
+        <title>Ethics</title>
+        <description>&lt;ul&gt;
+&lt;li&gt;Floridi,  L.  (2008). Foundations of  information ethics. In  &lt;em&gt;The    handbook    of  information and computer    ethics&lt;/em&gt; (pp.    4-23).  Hoboken,    NJ: John    Wiley   &amp;amp;   Sons,   Inc.&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Gibson,   A.  N., and Hughes-Hassell, S.  (2017). We  will    not be  silent: Amplifying  marginalized    voices  in  LIS education   and research.   &lt;em&gt;Library    Quarterly,  87&lt;/em&gt;(4). &lt;a href=&quot;http://doi.org/10.1086/693488&quot;&gt;http://doi.org/10.1086/693488&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Saving    Lives   in  the Stacks. (2017,  June    21).    Retrieved   August  26, 2017,   from    &lt;a href=&quot;https://americanlibrariesmagazine.org/2017/06/21/saving-lives-in-the-stacks/&quot;&gt;https://americanlibrariesmagazine.org/2017/06/21/saving-lives-in-the-stacks/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Westbrook,    L.  (2015). “I’m    Not a   Social  Worker”:  An  Information Service Model   for Working with    Patrons in  Crisis. &lt;em&gt;Library    Quarterly:  Information,    Community,  Policy, 85&lt;/em&gt;(1), 6–25. &lt;a href=&quot;https://doi.org/10.1086/679023&quot;&gt;https://doi.org/10.1086/679023&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Coldewey, D. (2018, May 29). Students confront the unethical side of tech in “Designing for Evil” course. &lt;em&gt;TechCrunch.&lt;/em&gt; Retrieved from &lt;a href=&quot;http://social.techcrunch.com/2018/05/29/students-confront-the-unethical-side-of-tech-in-designing-for-evil-course/&quot;&gt;http://social.techcrunch.com/2018/05/29/students-confront-the-unethical-side-of-tech-in-designing-for-evil-course/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 28 Jun 2018 00:00:00 -0400</pubDate>
+        <link>https://inls500.johndmart.in/class/2018/06/28/ethics/</link>
+        <guid isPermaLink="true">https://inls500.johndmart.in/class/2018/06/28/ethics/</guid>
+        
+        <category>ethics</category>
+        
+        <category>research</category>
+        
+        
+        <category>class</category>
+        
+      </item>
+    
+      <item>
+        <title>Evidence</title>
+        <description>&lt;p&gt;Read:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Thomson, P. (2018, May 14). Quick lit: Rapid evidence reviewing. Retrieved June 25, 2018, from &lt;a href=&quot;https://patthomson.net/2018/05/14/quick-lit-rapid-evidence-reviewing/&quot;&gt;https://patthomson.net/2018/05/14/quick-lit-rapid-evidence-reviewing/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt; Edwards, P. N. (2000). How to read a book. Ann Arbor, 1001, 48109–1107.
+
+&lt;ul&gt;
+&lt;li&gt; This describes how to read academic books, but the methods outlined in this manuscript are equally helpful for reading scientific articles – which we will do throughout our course. This skill will be useful throughout your time at SC&amp;amp;I and your future career as an information professional as well. &lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt; Koufogiannakis, D. (2013). EBLIP7 Keynote: What we talk about when we talk about evidence. &lt;em&gt;Evidence Based Library and Information Practice, 8&lt;/em&gt;(4), 6-17. &lt;a href=&quot;http://ejournals.library.ualberta.ca/index.php/EBLIP/article/view/20486&quot;&gt;http://ejournals.library.ualberta.ca/index.php/EBLIP/article/view/20486&lt;/a&gt;. 
+
+&lt;ul&gt;
+&lt;li&gt; This article explains different types of evidence, and is a helpful guide for understanding how to use evidence to make better decisions as information professionals. You should consult it when writing your evidence summary.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt; Meltzoff, J. (1998). Critical reading (Chapter 1) and Critical thinking about research (Chapter 2). In J. Meltzoff, &lt;em&gt;Critical thinking about Research&lt;/em&gt; (3-48). Washington, D.C.: American Psychological Association.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 27 Jun 2018 00:00:00 -0400</pubDate>
+        <link>https://inls500.johndmart.in/class/2018/06/27/evidence/</link>
+        <guid isPermaLink="true">https://inls500.johndmart.in/class/2018/06/27/evidence/</guid>
+        
+        <category>evidence</category>
+        
+        <category>research</category>
+        
+        <category>critical thinking</category>
+        
+        <category>reading</category>
+        
+        
+        <category>class</category>
+        
+      </item>
+    
+      <item>
+        <title>Information Science as a Field</title>
+        <description>&lt;p&gt;Read:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bates,    M.J.    (1999). The invisible   substrate   of  information science.    &lt;em&gt;Journal    of  the American    Society for Information Science,    50&lt;/em&gt;(12),    1043-1050. &lt;a href=&quot;http://dx.doi.org/10.1002/(SICI)1097-4571(1999)50:12%3C1043::AID-ASI1%3E3.0.CO;2-X/pdf&quot;&gt;http://dx.doi.org/10.1002/(SICI)1097-4571(1999)50:12%3C1043::AID-ASI1%3E3.0.CO;2-X/pdf&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;In  this    article,    Bates   discusses   the &amp;quot;below-the-water-line&amp;quot;  portion of  information science.    While   she focuses more    of  her attention   on  the content/information of  concern,    she does    include human-information   interactions    among   her &amp;quot;Three  Big Questions&amp;quot;  in  information science.    Read    through this    article quickly,    to  get an  overview    of  the field   as  background  for the semester.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Marchionini,  G.  (2008). Human-information   interaction research    and development.    &lt;em&gt;Library    &amp;amp;   Information Science Research,   30&lt;/em&gt;(3), 165-174. &lt;a href=&quot;http://dx.doi.org/10.1016/j.lisr.2008.07.001&quot;&gt;http://dx.doi.org/10.1016/j.lisr.2008.07.001&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Marchionini focuses more    directly    on  the scope   of  this    course than Bates   does    in  her article.    Focus special   attention   on  sections    2   and 6.&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Wildemuth,    B.M.,   &amp;amp;   Case,   D.O.    (2010). Early   information behavior    research.   &lt;em&gt;Bulletin   of  the American    Society for Information Science &amp;amp;   Technology, 36&lt;/em&gt;(3), 35-38.  &lt;a href=&quot;http://www.asis.org/Bulletin/Feb-10/FebMar10_Wildemuth_Case.pdf&quot;&gt;http://www.asis.org/Bulletin/Feb-10/FebMar10_Wildemuth_Case.pdf&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;This    article was written as  part    of  the 10th    anniversary celebration of  the Special  Interest   Group   on  Information Needs,  Seeking,    and Use of  the American    Society for Information Science &amp;amp;   Technology (SIG-USE of  ASIS&amp;amp;T).    It  provides a  brief   historical  overview    of  the general directions  taken   in  information behavior research.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 26 Jun 2018 00:00:00 -0400</pubDate>
+        <link>https://inls500.johndmart.in/class/2018/06/26/info-science-field/</link>
+        <guid isPermaLink="true">https://inls500.johndmart.in/class/2018/06/26/info-science-field/</guid>
+        
+        <category>information science</category>
+        
+        <category>history</category>
+        
+        <category>critical studies</category>
+        
+        <category>discipline</category>
+        
+        <category>field</category>
+        
+        
+        <category>class</category>
+        
+      </item>
+    
+      <item>
+        <title>Introduction to INLS 500</title>
+        <description>&lt;p&gt;Today, we will go over the syllabus and get acquainted. We will talk about your goals and objectives for the class, and have a discussion about the field that will lead us into tomorrow&amp;#39;s discussion. We will also be taking the final exam (I know that the first day seems like a weird time to do that, but trust me) today.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 25 Jun 2018 00:00:00 -0400</pubDate>
+        <link>https://inls500.johndmart.in/class/2018/06/25/intro/</link>
+        <guid isPermaLink="true">https://inls500.johndmart.in/class/2018/06/25/intro/</guid>
+        
+        <category>intro</category>
+        
+        <category>meet and greet</category>
+        
+        
+        <category>class</category>
+        
+      </item>
+    
+  </channel>
 </rss>
