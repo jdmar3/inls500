@@ -1,0 +1,10 @@
+---
+layout: post
+title: ""
+era: ""
+objectives: ""
+short_description: ""
+percentage: "%"
+category: assignments
+start_date: "YYYY-MM-DD HH:MM"
+---

@@ -1,5 +1,5 @@
 <footer>
-  <div class="blognav">
+  <div class="larger blognav">
     {% if page.previous.url %}
       <a class="prev" href="{{page.previous.url}}">&laquo;&nbsp;<span class="smaller">Previous:</span>&nbsp;{{page.previous.title}}</a>
     {% endif %}
@@ -19,7 +19,7 @@
 <div class="credits">
   <span>{{site.title | upcase }} &nbsp;&nbsp;|&nbsp;&nbsp; {{site.subtitle}}
     <br/> 
-  <span class="smaller">{{ site.description }}</span>
+  <span class="smaller">{{site.description}}</span>
   <br/><br/>
   <span class="smaller">{{ site.license }}</span>
   <br/>

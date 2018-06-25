@@ -16,4 +16,3 @@ Class is held on {{ site.data.info.days.varlong }} (except university holidays),
 The course description, as it appears in the UNC course catalog:
 
 "{{ site.description }}"
-

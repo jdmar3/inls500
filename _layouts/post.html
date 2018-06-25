@@ -1,37 +1,22 @@
 ---
 layout: default
 ---
-<h1>{{ page.title }}</h1>
+<h1>{{ page.title }}{% if page.category == "assignments" %} ({{ page.percentage" }} of grade){% endif %}</h1>
 
 {% capture datestamp %}{{page.date | date: "%F"}}{% endcapture %}
 {% capture today %}{{site.time | date: "%F"}}{% endcapture %}
-<p class="subtitle">{{ page.date | date: "%A, %-d %B %Y" }}{% if datestamp == today  %}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="smaller date contrast">TODAY</span>{% endif %}</p>
+<p class="subtitle"><span id="date">{% if page.category == "assignments" %}DUE: {{ page.start_date | date: "%A, %-d %B %Y at %H:%M" }}{% else %}{{ page.date | date: "%A, %-d %B %Y" }}{% endif %}</span><span class="smaller date contrast"></span></p>
 
-{% for ass in site.data.assignments %} 
-  {% if forloop.first == true %}
-  <ul>
-  {% endif %}
-  {% if ass.due == datestamp %}
-      <li><a href="/assignments#{{ ass.title | slugify }}"><i>{{ ass.title }}</i> DUE {% if datestamp == today  %}TODAY {% endif %}({% if ass.deliverable == "int" %}intermediate{% elsif ass.deliverable == "fin" %}final{% endif %} deliverable for <i>{{ ass.cattitle }}</i>)</a></li>
-  {% endif %}
-  {% if forloop.last == true %}
-  </ul>
-  {% endif %}
-{% endfor %}
-
-{% unless page.noreading == true %}
-
-<h2>Assigned reading</h2>
-
-{% bibliography --template bibliography-annote --query @*[keywords ^= {{ page.session }}] %}
-
-{% endunless %}
+<script>
+var date = document.getElementById("span")[0];
+alert(p.childNodes[1].textContent)
+</script>
 
 {{ content }}
 
 <p>
   <br/>
   <ul class="tags">
-    {% for tag in page.tags %}<li><a href="/topics#{{ tag | cgi_escape }}" class="tag">{{ tag | replace: " ", "-" }}</a></li>{% endfor %}
+    {% for tag in page.tags %}<li><a href="/topics#{{ tag }}" class="tag">{{ tag | replace: " ", "-" }}</a></li>{% endfor %}
   </ul> 
 </p>

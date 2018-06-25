@@ -10,26 +10,25 @@ email:
   var: "john.d.martin.iii@unc.edu"
 time:
   icon: ico-clock
-  var: "10:10-11:25"
+  var: "15:00-17:00"
 days:
   icon: ico-calendar
-  var: "MoWe"
-  varlong: "Monday and Wednesday"
+  var: "MoTuWeTh"
 location: 
   icon: ico-library
-  var: "208 Manning Hall"
-sakai:
-  icon: ico-target
-  alt: "UNC Sakai site for this course"
-  link: "https://sakai.unc.edu/portal/site/inls500-001f16"
+  var: "117 Manning Hall"
+#sakai:
+#  icon: ico-target
+#  alt: "UNC Sakai site for this course"
+#  link: "https://sakai.unc.edu/portal/site/inls161s216"
 #github:
 #  link: "https://github.com/inls161"
 #  alt: "GitHub organization for this course"
 #  icon: ico-github
-#slack: 
-#  link: "https://inls500.slack.com"
-#  alt: "Join the Slack conversations for this course"
-#  icon: ico-slack
+slack: 
+  link: "https://inls500-su2-2018.slack.com"
+  alt: "Join the Slack conversations for this course"
+  icon: ico-slack
 rss:
   link: "/feed"
   alt: "Add RSS feed"

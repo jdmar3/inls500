@@ -4,8 +4,9 @@ title: Assignments
 weight: 7
 nav_include: true
 ---
-<a href="./chronological">Click here for chronological listing of assignments.</a>
 
-{% include assignment-table.md %}
+Assignment instructions can be found on the schedule page as they are posted. 
 
-{% include assignments.md %}
+{% include assignment-table.md %} 
+ 
+{% include assignments.html %}

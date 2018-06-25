@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Topics
-description: List of tagged topics in INLS 500.
+description: List of tagged topics in INLS 161.
 nav_exclude: true
 ---
 
