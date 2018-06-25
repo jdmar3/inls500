@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<h1>{{ page.title }}{% if page.category == "assignments" %} ({{ page.percentage" }} of grade){% endif %}</h1>
+
+{% capture datestamp %}{{page.date | date: "%F"}}{% endcapture %}
+{% capture today %}{{site.time | date: "%F"}}{% endcapture %}
+<p class="subtitle"><span id="date">{% if page.category == "assignments" %}DUE: {{ page.start_date | date: "%A, %-d %B %Y at %H:%M" }}{% else %}{{ page.date | date: "%A, %-d %B %Y" }}{% endif %}</span><span class="smaller date contrast"></span></p>
+
+<script>
+var date = document.getElementById("span")[0];
+alert(p.childNodes[1].textContent)
+</script>
+
+{{ content }}
+
+<p>
+  <br/>
+  <ul class="tags">
+    {% for tag in page.tags %}<li><a href="/topics#{{ tag }}" class="tag">{{ tag | replace: " ", "-" }}</a></li>{% endfor %}
+  </ul> 
+</p>

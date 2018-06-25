@@ -1,0 +1,35 @@
+{% for post in site.categories.assignments reversed %}
+
+<a href="{{ post.url | prepend: site.baseurl }}" ><h1>{{ post.title }} ({{ post.percentage }}%)</h1></a>
+
+<h2>
+  Due: {{ post.start_date | date: "%A, %-d %B %Y" }} at {{ post.start_date | date: "%H:%M" }}
+</h2>
+    
+{{ post.excerpt }}
+
+  <p>
+    <a href="{{ post.url | prepend: site.baseurl }}" >Link to assignment instructions.</a>
+  </p>
+
+{% if post.percentage %}
+  <p><em>
+    {{ post.title }} is worth {{ post.percentage }}% of your final grade. {% if post.start_date %}It is due on {{ post.start_date | date: "%A, %-d %B %Y" }} at {{ post.start_date | date: "%H:%M" }}.{% endif %}
+  </em></p>
+{% endif %}
+
+{% endfor %}
+
+<h1>PARTICIPATION (20%)</h1>
+
+<h2>
+  Ongoing, with no specific due date.
+</h2>
+
+<p>
+Our weekly meetings are an amazing opportunity to talk with smart people about interesting topics. I cannot tell you how much I have learned from in-class discussions! We all have a variety of personal and professional experiences that relate to the topic of this course, and I expect that the discussions will provide ample opportunity to share these experiences and to learn from one another.  
+</p>
+
+<p>
+  Please do all of the readings before each class for which they are listed, and come prepared to engage in substantive discussion with the rest of the class. Think of our in-class discussions as chats with colleagues about your readings and assignments. What did you find particularly interesting? What did you learn? Were there things that were unsurprising to you? Did you like the reading? Why, or why not? How do the concepts and findings from the articles relate to everyday life? To the profession? Do the findings make sense? What information did you find useful? Were the articles problematic in any way? How so? Was there anything particularly difficult to understand? How do the readings from one week relate to the readings from previous sessions? And so on. It’s important to draw on the readings, lectures, and assignments when you engage in class discussions. 
+</p>

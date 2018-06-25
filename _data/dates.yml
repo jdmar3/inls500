@@ -1,0 +1,13 @@
+begin:
+  dow: Monday
+  date: "2018-06-25"
+  time: "15:00"
+end: 
+  dow: Thursday
+  date: "2018-07-26"
+  time: "17:00"
+exam:
+  date: "2018-07-31"
+  time: "15:00-18:00"
+  begin: "15:00"
+  end: "18:00"
