@@ -17,8 +17,8 @@ nav_exclude: true
                 "day": "{{ post.date | date : '%d' }}"{% if post.start_date %},
                 "hour": "{{ post.start_date | date : '%H' }}",
                 "minute": "{{ post.start_date | date : '%M' }}"{% elsif post.category == "class" %},
-                "hour": "11",
-                "minute": "30"{% endif %}
+                "hour": "15",
+                "minute": "00"{% endif %}
             },{% if post.end_date %}
             "end_date": {
                 "year": "{{ post.end_date | date : '%Y' }}",
@@ -31,7 +31,7 @@ nav_exclude: true
                 "year": "{{ post.date | date : '%Y' }}",
                 "month": "{{ post.date | date : '%m' }}",
                 "day": "{{ post.date | date : '%d' }}"{% if post.category == "class" %},
-                "hour": "13",
+                "hour": "17",
                 "minute": "00"{% endif %}
             },{% endif %}
             "text": {
