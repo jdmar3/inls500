@@ -143,6 +143,72 @@
             "start_date": {
                 "year": "2018",
                 "month": "07",
+                "day": "03",
+                "hour": "15",
+                "minute": "00"
+            },
+            "end_date": {
+                "year": "2018",
+                "month": "07",
+                "day": "03",
+                "hour": "17",
+                "minute": "00"
+            },
+            "text": {
+                "headline": "<a href='/class/2018/07/03/info-seeking/'>Information Seeking</a>",
+                "text": "<ul>\n<li>St. Jean, B. (2017). Factors motivating, demotivating, or impeding information seeking and use by people with type 2 diabetes: A call to work toward preventing, identifying, and addressing incognizance. Journal of the Association for Information Science and Technology, 68(2), 309–320. <a href=\"https://doi.org/10.1002/asi.23652\">https://doi.org/10.1002/asi.23652</a></li>\n<li>Kuhlthau, C. C. (1991). Inside the search process: Information seeking from the user’s perspective. Journal of the American Society for Information Science, 42, 361-371. <a href=\"https://doi.org/10.1002/(SICI)1097-4571(199106)42:5%3C361::AID-ASI6%3E3.0.CO;2-#\">https://doi.org/10.1002/(SICI)1097-4571(199106)42:5<a href=\"361::AID-ASI6\">361::AID-ASI6</a>3.0.CO;2-#</a>\n\n<ul>\n<li>This article will be very useful for your diary and analysis of an information seeking process, since Kuhlthau’s model is based on how students search for information related to course assignments. Pay close attention to her discussion of topic selection, which is the focus of your diary assignment. </li>\n</ul></li>\n<li>Wilson, T.D. (1999) Models in information behaviour research Journal of Documentation, 55(3) 249-270 [Available at <a href=\"http://informationr.net/tdw/publ/papers/1999JDoc.html\">http://informationr.net/tdw/publ/papers/1999JDoc.html</a>]</li>\n</ul>"
+            },
+            "unique_id": "class-2018-07-03-info-seeking",
+            "group": "class"
+        },
+        {
+            "start_date": {
+                "year": "2018",
+                "month": "07",
+                "day": "04",
+                "hour": "15",
+                "minute": "00"
+            },
+            "end_date": {
+                "year": "2018",
+                "month": "07",
+                "day": "04",
+                "hour": "17",
+                "minute": "00"
+            },
+            "text": {
+                "headline": "<a href='/class/2018/07/04/no-class/'>No class</a>",
+                "text": "<p>Since it is Independence Day, there is no class. I recommend that you watch the film <a href=\"https://www.imdb.com/title/tt0116629/\">Independence Day</a> (1996), and think about how information needs and seeking are portrayed in different parts of the story. </p>"
+            },
+            "unique_id": "class-2018-07-04-no-class",
+            "group": "class"
+        },
+        {
+            "start_date": {
+                "year": "2018",
+                "month": "07",
+                "day": "05",
+                "hour": "15",
+                "minute": "00"
+            },
+            "end_date": {
+                "year": "2018",
+                "month": "07",
+                "day": "05",
+                "hour": "17",
+                "minute": "00"
+            },
+            "text": {
+                "headline": "<a href='/class/2018/07/05/search-strategies/'>Search strategies</a>",
+                "text": "<p>Today we will return to talking about information seeking, but approach it from a practical perspective. We will discuss and practice how to formulate queries and search strategies for both exploratory search and and more advanced search. </p>"
+            },
+            "unique_id": "class-2018-07-05-search-strategies",
+            "group": "class"
+        },
+        {
+            "start_date": {
+                "year": "2018",
+                "month": "07",
                 "day": "09",
                 "hour": "15",
                 "minute": "00"
