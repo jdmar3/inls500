@@ -2,7 +2,7 @@
 layout: page
 weight: 0
 title: Human Information Interactions
-nav_include: true
+nav_include: false
 ---
 
 {% include info.md %}
