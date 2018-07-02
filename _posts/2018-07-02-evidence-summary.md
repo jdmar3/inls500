@@ -6,7 +6,7 @@ objectives: "2,3,5"
 short_description: "Evidence summary"
 percentage: "20"
 category: assignments
-start_date: "2018-07-02 15:00"
+start_date: "2018-07-03 23:59"
 ---
 
 This assignment is modeled on the evidence summaries regularly published in the journal, Evidence-Based Library & Information Practice (http://ejournals.library.ualberta.ca/index.php/EBLIP/index). As you can see from examining a few examples in the journal, each evidence summary focuses on a particular research study that has implications for the practice of the information professions. While most of the evidence summaries in the journal do focus on the practice of librarianship, this approach can (and will, in this assignment) be extended to any information practice setting that you want to explore for your future career.
