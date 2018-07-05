@@ -1035,6 +1035,10 @@ hr.slender {
   text-decoration: none !important;
   color: #56A0D3 !important; }
 
+.tl-text-context p {
+  padding: 0 !important;
+  width: 100% !important; }
+
 .tl-timeera.tl-timeera-color0 .tl-timeera-background {
   background-color: #A9A9A9 !important; }
 
