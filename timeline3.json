@@ -212,6 +212,28 @@
             "start_date": {
                 "year": "2018",
                 "month": "07",
+                "day": "09",
+                "hour": "15",
+                "minute": "00"
+            },
+            "end_date": {
+                "year": "2018",
+                "month": "07",
+                "day": "09",
+                "hour": "17",
+                "minute": "00"
+            },
+            "text": {
+                "headline": "<a href='/class/2018/07/09/mediation/'>Mediation</a>",
+                "text": "<ul>\n<li>Agosto, D. E., Rozaklis, L., MacDonald, C., &amp; Abels, E. G. (2011). A Model of the Reference and  Information Service Process. <em>Reference &amp; User Services Quarterly, 50</em>(3), 235–244. <a href=\"https://doi.org/10.5860/rusq.50n3.235\">https://doi.org/10.5860/rusq.50n3.235</a></li>\n<li>Noble, S.U. (2015). &quot;Just Google It&quot;: Algorithms of Oppression. <a href=\"https://www.youtube.com/watch?v=omko_7CqVTA\">https://www.youtube.com/watch?v=omko_7CqVTA</a></li>\n<li>Vakkari, P., &amp; Huuskonen, S. (2012). Search effort degrades search output but improves task  outcome. <em>Journal of the American Society for Information Science and Technology, 63</em>(4), 657–670. <a href=\"https://doi.org/10.1002/asi.21683\">https://doi.org/10.1002/asi.21683</a></li>\n</ul>"
+            },
+            "unique_id": "class-2018-07-09-mediation",
+            "group": "class"
+        },
+        {
+            "start_date": {
+                "year": "2018",
+                "month": "07",
                 "day": "10",
                 "hour": "23",
                 "minute": "59"
@@ -227,6 +249,72 @@
             },
             "unique_id": "assignments-2018-07-10-diary-and-analysis",
             "group": "assignments"
+        },
+        {
+            "start_date": {
+                "year": "2018",
+                "month": "07",
+                "day": "10",
+                "hour": "15",
+                "minute": "00"
+            },
+            "end_date": {
+                "year": "2018",
+                "month": "07",
+                "day": "10",
+                "hour": "17",
+                "minute": "00"
+            },
+            "text": {
+                "headline": "<a href='/class/2018/07/10/relevance/'>Relevance</a>",
+                "text": "<ul>\n<li>Costello, K. L. (2017). Social relevance assessments for virtual worlds: Interpersonal source selection in the context of chronic illness. <em>Journal of Documentation, 73</em>(5).</li>\n<li>Cosijn, E., &amp; Ingwersen, P. (2000). Dimensions of Relevance. <em>Information Processing and Management, 36</em>(4), 533–550. <a href=\"http://doi.org/10.1016/S0306-4573(99)00072-2\">http://doi.org/10.1016/S0306-4573(99)00072-2</a>.</li>\n<li>Saracevic, T. (2007). Relevance: A review of the literature and a framework for thinking on the notion in information science. Part III: Behavior and effects of relevance. <em>Journal of the American Society for Information Science &amp; Technology, 58</em>(13), 2126-2144.</li>\n</ul>"
+            },
+            "unique_id": "class-2018-07-10-relevance",
+            "group": "class"
+        },
+        {
+            "start_date": {
+                "year": "2018",
+                "month": "07",
+                "day": "11",
+                "hour": "15",
+                "minute": "00"
+            },
+            "end_date": {
+                "year": "2018",
+                "month": "07",
+                "day": "11",
+                "hour": "17",
+                "minute": "00"
+            },
+            "text": {
+                "headline": "<a href='/class/2018/07/11/source-selection/'>Source selection</a>",
+                "text": "<ul>\n<li>Fisher, K.E., &amp; Naumer, C.M. (2006). Information grounds: Theoretical basis and empirical findings on information flow in social settings. In Spink, A., &amp; Cole, C. (eds.), <em>New Directions in Human Information Behavior.</em> Springer, 93-111. </li>\n<li>Gibson, A. N. (2017). Place, community and information behavior: Spatially oriented information seeking zones and information source preferences. <em>Library and Information Science Research, 39</em>(2), 131-139.</li>\n<li>Lopatovska, I., Fenton, M. R., &amp; Campot, S. (2012). Examining preferences for search engines and their effects on information behavior. <em>Proceedings of the American Society for Information Science and Technology, 49</em>(1), 1-11. <a href=\"https://doi.org/10.1002/meet.14504901110\">https://doi.org/10.1002/meet.14504901110</a>.</li>\n<li>Sonnenwald, D.H. (1999). Perspectives of human information behaviour: Contexts, situations, social networks and information horizons. In <em>Exploring the Contexts of Information Behaviour: Proceedings of the Second International Conference on Research in Information Needs, Seeking and Use in Different Contexts</em> (August 13-15, 1998, Sheffield, UK). Taylor Graham, 176-190.</li>\n</ul>"
+            },
+            "unique_id": "class-2018-07-11-source-selection",
+            "group": "class"
+        },
+        {
+            "start_date": {
+                "year": "2018",
+                "month": "07",
+                "day": "12",
+                "hour": "15",
+                "minute": "00"
+            },
+            "end_date": {
+                "year": "2018",
+                "month": "07",
+                "day": "12",
+                "hour": "17",
+                "minute": "00"
+            },
+            "text": {
+                "headline": "<a href='/class/2018/07/12/emotion/'>Emotion</a>",
+                "text": "<ul>\n<li>Lopatovska, I., &amp; Arapakis, I. (2011). Theories, methods and current research on emotions in library and information science, information retrieval and human-computer interaction. Information Processing &amp; Management, 47(4), 575-592. </li>\n<li>Luo, M. M., Nahl, D., &amp; Chea, S. (2011). Uncertainty, Affect, and Information Search. In 2011 44th Hawaii International Conference on System Sciences (pp. 1–10). <a href=\"https://doi.org/10.1109/HICSS.2011.461\">https://doi.org/10.1109/HICSS.2011.461</a></li>\n<li>Savolainen, R. (2016). Approaching the affective barriers to information seeking: the viewpoint of appraisal theory. Information Research, 21(4), 1–20.</li>\n</ul>"
+            },
+            "unique_id": "class-2018-07-12-emotion",
+            "group": "class"
         },
         {
             "start_date": {
