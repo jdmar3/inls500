@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "Models of information interactions"
 tags: 
 - information seeking
 - search
