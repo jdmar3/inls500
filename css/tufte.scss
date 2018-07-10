@@ -157,6 +157,7 @@ p .subtitle { font-style: italic;
 
 p, ol, ul { font-size: 1rem; }
 
+//FIX THIS BULLSHIT ALSO TK
 p{ line-height: 1.5rem;
         margin-top: 0.85rem;
         padding-right: 2rem; //removed because,  why?
@@ -373,6 +374,7 @@ blockquote .sidenote, blockquote .marginnote { margin-right: -60% }
                    color: $contrast-color;
                    top: 0rem; } //removed superscripting for numerical reference in sidenote
 
+// FIX THIS BULLSHIT TK
 p, footer, div.table-wrapper, div.mathblock{ width: 55%; }
 
 table { max-width: 55%; }
