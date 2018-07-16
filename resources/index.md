@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reference
+title: Resources
 weight: 9
 nav_include: true
 ---
@@ -33,3 +33,29 @@ It also may help to understand the parallels between the two.
 ## Thinking better
 
 [Cognitive bias cheat sheet: Because thinking is hard - Buster Benson](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18#.2v7ex66ow)
+
+# Literature review
+
+The purpose of literature review is to understand the state-of-the-art and history of a given topic. 
+Literature review can be variously applied depending on the need. 
+
+The following guides might help you in scoping and conducting your literature review.
+
+Pautasso, M. (2013). Ten simple rules for writing a literature review. *PLoS Computational Biology, 9*(7), e1003149. https://doi.org/10.1371/journal.pcbi.1003149
+
+This is probably the most succinct, straightforward, and complete guide I have come across: 
+
+<a target="_blank" href="http://www.raulpacheco.org/2016/06/how-to-do-a-literature-review-citation-tracing-concept-saturation-and-results-mind-mapping/">How to do a literature review: Citation tracing, concept saturation and results’ mind-mapping - Raul Pacheco-Vega</a>
+
+<a target="_blank" href="./files/emerald-lit-review-infographic.pdf">How to... Write a Literature Review - Emerald Publishing</a>
+
+## Concept matrices
+
+<a target="_blank" href="https://writingcenter.fiu.edu/resources/synthesis-matrix-2.pdf">Writing a Literature Review and Using a Synthesis Matrix - FIU</a>
+
+<a target="_blank" href="http://www2.smumn.edu/deptpages/tcwritingcenter/forms_of_writing/litrevmatrix_tc.pdf">Literature reviews: Using a matrix to organize research - The Writing Center at Saint Mary's University of Minnesota</a>
+
+The following article is a particularly good resource for understanding and structuring literature review.
+
+Lubbe, S., Klopper, R., & Rugbeer, H. (2007). The matrix method of literature review. *Alternation, 14*(1). Retrieved from http://umkn-dsp01.unisa.ac.za/handle/10500/3002
+
