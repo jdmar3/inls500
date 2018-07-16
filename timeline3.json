@@ -311,7 +311,7 @@
             },
             "text": {
                 "headline": "<a href='/class/2018/07/12/emotion/'>Emotion</a>",
-                "text": "<ul>\n<li>Lopatovska, I., &amp; Arapakis, I. (2011). Theories, methods and current research on emotions in library and information science, information retrieval and human-computer interaction. Information Processing &amp; Management, 47(4), 575-592. </li>\n<li>Luo, M. M., Nahl, D., &amp; Chea, S. (2011). Uncertainty, Affect, and Information Search. In 2011 44th Hawaii International Conference on System Sciences (pp. 1–10). <a href=\"https://doi.org/10.1109/HICSS.2011.461\">https://doi.org/10.1109/HICSS.2011.461</a></li>\n<li>Savolainen, R. (2016). Approaching the affective barriers to information seeking: the viewpoint of appraisal theory. Information Research, 21(4), 1–20.</li>\n</ul>"
+                "text": "<ul>\n<li>Lopatovska, I., &amp; Arapakis, I. (2011). Theories, methods and current research on emotions in library and information science, information retrieval and human-computer interaction. Information Processing &amp; Management, 47(4), 575-592. <a href=\"https://doi.org/10.1016/j.ipm.2010.09.001\">https://doi.org/10.1016/j.ipm.2010.09.001</a></li>\n<li>Luo, M. M., Nahl, D., &amp; Chea, S. (2011). Uncertainty, Affect, and Information Search. In 2011 44th Hawaii International Conference on System Sciences (pp. 1–10). <a href=\"https://doi.org/10.1109/HICSS.2011.461\">https://doi.org/10.1109/HICSS.2011.461</a></li>\n<li>Savolainen, R. (2016). Approaching the affective barriers to information seeking: the viewpoint of appraisal theory. Information Research, 21(4), 1–20. <a href=\"http://www.informationr.net/ir/21-4/isic/isic1603.html\">http://www.informationr.net/ir/21-4/isic/isic1603.html</a></li>\n</ul>"
             },
             "unique_id": "class-2018-07-12-emotion",
             "group": "class"
@@ -466,6 +466,9 @@
             "text": {
                 "headline": "<a href='/class/2018/07/25/future/'>Information behavior and marginalized populations</a>",
                 "text": ""
+            },
+            "media": {
+                "url": "https://twitter.com/leeflower/status/1016714584898588672"
             },
             "unique_id": "class-2018-07-25-future",
             "group": "class"
