@@ -6,7 +6,7 @@ objectives: "1,3,5"
 short_description: "Diary and analysis"
 percentage: "20"
 category: assignments
-start_date: "2018-07-12 23:59"
+start_date: "2018-07-16 23:59"
 ---
 
 In this assignment, you will collect observations of your own information seeking experiences over a short period of time, write these observations up in a descriptive account, and interpret your actions in light of the course readings and discussions to date. There are three purposes to this assignment:

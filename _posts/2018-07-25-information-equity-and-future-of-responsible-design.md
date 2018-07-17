@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Information behavior and marginalized populations"
+title: "Information Equity and the Future of Responsible Design"
 tags: 
 - barriers
 - inclusion
@@ -9,11 +9,7 @@ tags:
 - social
 - symbolic violence
 - equity
-- racism
-- critical theory
-- critical race theory
-- feminism
-- queer theory
+- design
 - future
 category: class
 media: 
