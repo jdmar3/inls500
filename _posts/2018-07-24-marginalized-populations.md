@@ -14,4 +14,6 @@ tags:
 - critical race theory
 - feminism
 category: class
+start_date: "2018-07-24 15:30"
+end_date: "2018-07-24 17:30"
 ---

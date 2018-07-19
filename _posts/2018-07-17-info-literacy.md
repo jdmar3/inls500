@@ -8,6 +8,8 @@ tags:
 - reliability
 - information literacy
 category: class
+start_date: "2018-07-1 15:30"
+end_date: "2018-07-17 17:30"
 ---
 
 - Elmborg, J. (2012). Critical information literacy: Definitions and challenges. *Transforming Information Literacy Programs: Intersecting Frontiers of Self, Library Culture, and Campus Community, 64,* 75–80. https://ir.uiowa.edu/cgi/viewcontent.cgi?article=1013&context=slis_pubs

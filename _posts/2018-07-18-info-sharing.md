@@ -8,6 +8,8 @@ tags:
 - reliability
 - sharing
 category: class
+start_date: "2018-07-18 15:30"
+end_date: "2018-07-18 17:30"
 ---
 
 - Cooke, D. N. (2016). Information Sharing, Community Development, and Deindividuation in the eLearning Domain. *Online Learning, 20*(2). http://dx.doi.org/10.24059/olj.v20i2.614

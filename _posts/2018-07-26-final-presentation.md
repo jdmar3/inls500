@@ -6,6 +6,8 @@ tags:
 - talking about research
 - group discussion
 category: class
+start_date: "2018-07-26 15:30"
+end_date: "2018-07-26 17:30"
 ---
 
 Today you we will have an informmal presentation and discussion about all of the work that you have done in the course of writing your term paper. 
