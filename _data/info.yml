@@ -16,7 +16,7 @@ days:
   var: "MoTuWeTh"
 location: 
   icon: ico-library
-  var: "117 Manning Hall"
+  var: "214 Manning Hall"
 #sakai:
 #  icon: ico-target
 #  alt: "UNC Sakai site for this course"
