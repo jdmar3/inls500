@@ -1039,7 +1039,7 @@ hr.slender {
   padding-right: 0 !important;
   margin-right: 0; }
 
-.tl-timeline ul, tl-timeline p {
+.tl-timeline ul, .tl-timeline p, .tl-text-context ul, tl-text-context p {
   width: 100%; }
 
 .tl-timeera.tl-timeera-color0 .tl-timeera-background {
