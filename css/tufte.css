@@ -319,8 +319,8 @@ blockquote footer {
   width: 45%;
   text-align: right; }
 
-.twitter-tweet {
-  width: 55% !important; }
+blockquote.twitter-tweet {
+  width: 55%; }
 
 .video-container {
   position: relative;
@@ -576,7 +576,7 @@ div.table-wrapper {
   div.highlight {
     width: 87.5% !important; }
 
-  .twitter-tweet {
+  blockquote.twitter-tweet {
     max-width: 87.5%; }
 
   article ul {
@@ -1041,6 +1041,9 @@ hr.slender {
 
 .tl-timeline ul, .tl-timeline p, .tl-text-context ul, tl-text-context p {
   width: 100%; }
+
+.tl-media-twitter blockquote.twitter-tweet {
+  width: 100% !important; }
 
 .tl-timeera.tl-timeera-color0 .tl-timeera-background {
   background-color: #A9A9A9 !important; }
