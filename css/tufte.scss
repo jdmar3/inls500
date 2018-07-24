@@ -181,7 +181,7 @@ blockquote p {  font-size: 1rem; //1.1rem;
 blockquote footer { width: 45%;
                     text-align: right; }
 
-.twitter-tweet { width: 55% !important; }
+blockquote.twitter-tweet { width: 55%; }
 
 //.youtube { width: 87.5% !important; height: 100% !important; }
 
@@ -421,7 +421,7 @@ div.table-wrapper { overflow-x: auto } //changed all overflow values to 'auto' s
 	
     p, footer,div.mathblock, { width: 90%; }
     div.highlight { width: 87.5% !important; }
-  .twitter-tweet { max-width: 87.5%; }
+  blockquote.twitter-tweet { max-width: 87.5%; }
     pre code { //width: 52.5%; 
     }
     article ul { width: 87.5%; }
@@ -911,6 +911,12 @@ hr.slender {
     padding-right: 0 !important;
     margin-right: 0;
 }
+
+.tl-timeline ul, .tl-timeline p, .tl-text-context ul, tl-text-context p{
+    width: 100%;
+}
+
+.tl-media-twitter blockquote.twitter-tweet { width: 100% !important; }
 
 .tl-timeera.tl-timeera-color0 .tl-timeera-background {
     background-color: #A9A9A9 !important;
